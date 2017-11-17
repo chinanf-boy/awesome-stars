@@ -45,6 +45,8 @@
 
 ## Go 
 
+- [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
+- [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的社区系统
@@ -74,6 +76,7 @@
 
 ## JavaScript 
 
+- [node-micro-service-bootstrap](https://github.com/coreorm/node-micro-service-bootstrap) - bootstrap for nodejs micro services
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
@@ -163,6 +166,7 @@
 
 ## Others 
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
@@ -179,6 +183,7 @@
 
 ## Python 
 
+- [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
@@ -214,6 +219,7 @@
 
 ## TypeScript 
 
+- [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展/应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
