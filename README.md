@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [justrun](https://github.com/jmhodges/justrun) - A tool that watches files, and runs possibly long-lived commands when they change.
 - [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
@@ -76,6 +77,7 @@
 
 ## JavaScript 
 
+- [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [node-micro-service-bootstrap](https://github.com/coreorm/node-micro-service-bootstrap) - bootstrap for nodejs micro services
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
@@ -108,7 +110,7 @@
 - [incubator-weex](https://github.com/apache/incubator-weex) - Mirror of Apache Weex
 - [demo-app](https://github.com/react-native-material-design/demo-app) - An Android app to demonstrate react-native-material-design
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-- [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook-boilerplate](https://github.com/sm-react/storybook-boilerplate) - 
 - [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
 - [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
