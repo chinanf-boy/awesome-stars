@@ -77,6 +77,8 @@
 
 ## JavaScript 
 
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [node-micro-service-bootstrap](https://github.com/coreorm/node-micro-service-bootstrap) - bootstrap for nodejs micro services
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
@@ -168,6 +170,7 @@
 
 ## Others 
 
+- [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释
@@ -201,7 +204,6 @@
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [pipenv](https://github.com/kennethreitz/pipenv) - Python Development Workflow for Humans.
 - [effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Source Code and Errata for the Book
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3
