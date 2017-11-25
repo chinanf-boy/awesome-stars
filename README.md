@@ -78,7 +78,9 @@
 
 ## JavaScript 
 
-- [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful charts with one line in Vue.js
+- [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps
+- [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+- [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 - [react-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [translate-js](https://github.com/chinanf-boy/translate-js) - 用于 翻译 hugo 官方文档 content 下 或者 你想翻译的 的 md 文章 或 文件夹
@@ -177,6 +179,9 @@
 
 ## Others 
 
+- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
+- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+- [boost-releases](https://github.com/BoostIO/boost-releases) - 🚀 Boostnote app releases & changelog
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
@@ -195,6 +200,7 @@
 
 ## Python 
 
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
