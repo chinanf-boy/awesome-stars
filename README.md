@@ -17,6 +17,7 @@
   - [Jupyter Notebook](#jupyter notebook)
   - [Others](#others)
   - [Python](#python)
+  - [Rascal](#rascal)
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -42,6 +43,7 @@
 
 ## CoffeeScript 
 
+- [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) - shadowsocks over WebSocket, support Heroku.
 - [hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
 
 ## Go 
@@ -68,7 +70,7 @@
 ## HTML 
 
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - The personal website framework for Hugo. Demo at
+- [hugo-academic](https://github.com/gcushen/hugo-academic) - The personal website framework for Hugo
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [hyperchat](https://github.com/sdegutis/hyperchat) - Hyper-real-time chat
 
@@ -78,6 +80,10 @@
 
 ## JavaScript 
 
+- [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
+- [react-pivottable](https://github.com/plotly/react-pivottable) - React-based drag'n'drop pivot table with Plotly.js charts
+- [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps
 - [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
@@ -179,6 +185,7 @@
 
 ## Others 
 
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [boost-releases](https://github.com/BoostIO/boost-releases) - 🚀 Boostnote app releases & changelog
@@ -221,6 +228,10 @@
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3
 - [day_repr](https://github.com/chinanf-boy/day_repr) - noteddddd my learn
+
+## Rascal 
+
+- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
 
 ## Ruby 
 
