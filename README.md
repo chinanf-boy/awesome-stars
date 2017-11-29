@@ -80,6 +80,8 @@
 
 ## JavaScript 
 
+- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+- [smart-mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 - [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
 - [react-pivottable](https://github.com/plotly/react-pivottable) - React-based drag'n'drop pivot table with Plotly.js charts
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
@@ -251,7 +253,7 @@
 
 ## TypeScript 
 
-- [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展/应用中使用。
+- [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
