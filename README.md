@@ -244,6 +244,7 @@
 
 ## Shell 
 
+- [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 
