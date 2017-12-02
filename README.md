@@ -30,6 +30,7 @@
 
 ## C++ 
 
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x API for node.js, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 
@@ -48,6 +49,8 @@
 
 ## Go 
 
+- [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
+- [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [justrun](https://github.com/jmhodges/justrun) - A tool that watches files, and runs possibly long-lived commands when they change.
 - [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
@@ -80,6 +83,8 @@
 
 ## JavaScript 
 
+- [UiZoo.js](https://github.com/myheritage/UiZoo.js) - Dynamic React components library 🦉
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [smart-mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 - [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
@@ -104,7 +109,7 @@
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
-- [probot](https://github.com/probot/probot) - a framework for building GitHub Apps to automate and improve your workflow
+- [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [stale](https://github.com/probot/stale) - automatically close stale Issues and Pull Requests
 - [execa](https://github.com/sindresorhus/execa) - A better `child_process`
 - [listr](https://github.com/SamVerschueren/listr) - Terminal task list
