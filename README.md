@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [Web-Weapon](https://github.com/chinanf-boy/Web-Weapon) - web weapon use teahs 网络武器库
@@ -49,6 +50,8 @@
 
 ## Go 
 
+- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [justrun](https://github.com/jmhodges/justrun) - A tool that watches files, and runs possibly long-lived commands when they change.
@@ -72,6 +75,7 @@
 
 ## HTML 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The personal website framework for Hugo
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
@@ -83,6 +87,12 @@
 
 ## JavaScript 
 
+- [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
+- [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
+- [npx](https://github.com/zkat/npx) - execute npm package binaries
+- [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+- [amphtml](https://github.com/ampproject/amphtml) - AMP HTML source code, samples, and documentation.  See below for more info.
+- [scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver.
 - [UiZoo.js](https://github.com/myheritage/UiZoo.js) - Dynamic React components library 🦉
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
@@ -117,7 +127,7 @@
 - [website](https://github.com/yarnpkg/website) - Yarn package manager website
 - [npm](https://github.com/npm/npm) - a package manager for javascript
 - [makeitopen](https://github.com/facebook/makeitopen) - makeitopen.com is a learning portal that begins with the F8 App tutorial series, and will hopefully expand to encompass lots of additional tutorials designed to connect our FB Open Source projects.
-- [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
+- [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
 - [parse-server](https://github.com/parse-community/parse-server) - Parse-compatible API server module for Node/Express
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
@@ -198,6 +208,7 @@
 - [boost-releases](https://github.com/BoostIO/boost-releases) - 🚀 Boostnote app releases & changelog
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
@@ -243,7 +254,6 @@
 ## Ruby 
 
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
-- [JS.coach](https://github.com/dmfrancisco/JS.coach) - An opinionated catalog of open source JS packages.
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
 
@@ -268,6 +278,7 @@
 
 ## Vue 
 
+- [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js
 
 
