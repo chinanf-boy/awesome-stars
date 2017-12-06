@@ -36,6 +36,8 @@
 
 ## CSS 
 
+- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
+- [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -75,6 +77,7 @@
 
 ## HTML 
 
+- [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The personal website framework for Hugo
@@ -87,6 +90,8 @@
 
 ## JavaScript 
 
+- [hnpwa-vue](https://github.com/chinanf-boy/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
+- [hnpwa-vue](https://github.com/anubhav7495/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
 - [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
 - [npx](https://github.com/zkat/npx) - execute npm package binaries
@@ -259,6 +264,7 @@
 
 ## Shell 
 
+- [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
@@ -269,6 +275,7 @@
 
 ## TypeScript 
 
+- [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
