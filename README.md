@@ -77,6 +77,7 @@
 
 ## HTML 
 
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
@@ -90,6 +91,12 @@
 
 ## JavaScript 
 
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+- [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+- [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [hnpwa-vue](https://github.com/chinanf-boy/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
 - [hnpwa-vue](https://github.com/anubhav7495/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
 - [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
@@ -207,6 +214,7 @@
 
 ## Others 
 
+- [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 没有手动翻译 使用 translate-js
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -245,7 +253,7 @@
 - [reddit](https://github.com/reddit/reddit) - historical code from reddit.com
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [pipenv](https://github.com/kennethreitz/pipenv) - Python Development Workflow for Humans.
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Source Code and Errata for the Book
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
