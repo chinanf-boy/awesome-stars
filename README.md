@@ -241,6 +241,7 @@
 
 ## Python 
 
+- [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
