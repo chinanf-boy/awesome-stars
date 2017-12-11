@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
