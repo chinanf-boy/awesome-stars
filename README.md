@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
