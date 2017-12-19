@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [godzilla](https://github.com/jingweno/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
@@ -71,7 +72,7 @@
 - [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [go-best-practice](https://github.com/astaxie/go-best-practice) - Trying to complete over 100 projects in various categories in golang.
-- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [go](https://github.com/golang/go) - The Go programming language
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
@@ -94,6 +95,7 @@
 
 ## JavaScript 
 
+- [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -219,6 +221,7 @@
 
 ## Others 
 
+- [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 - [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 没有手动翻译 使用 translate-js
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
@@ -243,6 +246,7 @@
 
 ## Python 
 
+- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
@@ -272,6 +276,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
@@ -289,7 +294,7 @@
 
 ## TypeScript 
 
-- [pandora](https://github.com/midwayjs/pandora) - A powerful and lightweight application manager for Node.js applications powered by TypeScript.
+- [pandora](https://github.com/midwayjs/pandora) - A Ops First Application Manager for Node.js Applications powered by TypeScript.
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
