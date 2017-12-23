@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [godzilla](https://github.com/jingweno/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
@@ -95,6 +96,7 @@
 
 ## JavaScript 
 
+- [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -221,6 +223,8 @@
 
 ## Others 
 
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 - [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 没有手动翻译 使用 translate-js
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -283,6 +287,7 @@
 
 ## Shell 
 
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
@@ -294,7 +299,7 @@
 
 ## TypeScript 
 
-- [pandora](https://github.com/midwayjs/pandora) - A Ops First Application Manager for Node.js Applications powered by TypeScript.
+- [pandora](https://github.com/midwayjs/pandora) - An Ops First Application Manager for Node.js Applications powered by TypeScript.
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
