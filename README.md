@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - Easy scroll animations for web and mobile browsers.
 - [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
@@ -281,6 +282,7 @@
 
 ## Ruby 
 
+- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -311,6 +313,7 @@
 
 ## Vue 
 
+- [web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js
 
