@@ -86,7 +86,7 @@
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - The personal website framework for Hugo
+- [hugo-academic](https://github.com/gcushen/hugo-academic) - The extensible website framework for Hugo
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [hyperchat](https://github.com/sdegutis/hyperchat) - Hyper-real-time chat
 
@@ -96,6 +96,13 @@
 
 ## JavaScript 
 
+- [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [pwa](https://github.com/lakshyaranganath/pwa) - An opinionated progressive web app boilerplate
+- [loadCSS](https://github.com/filamentgroup/loadCSS) - A function for loading CSS asynchronously
+- [react-dom-stream](https://github.com/aickin/react-dom-stream) - A streaming server-side rendering library for React.
+- [core](https://github.com/stackblitz/core) - Online VS Code IDE for Angular & React
+- [Vue_Typescript_Todolist](https://github.com/coding-blocks-archives/Vue_Typescript_Todolist) - 
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
 - [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - Easy scroll animations for web and mobile browsers.
 - [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
@@ -225,6 +232,7 @@
 
 ## Others 
 
+- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
