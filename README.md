@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [react](https://github.com/discountry/react) - React docs in Chinese | React 中文文档翻译
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [pwa](https://github.com/lakshyaranganath/pwa) - An opinionated progressive web app boilerplate
 - [loadCSS](https://github.com/filamentgroup/loadCSS) - A function for loading CSS asynchronously
@@ -232,6 +233,7 @@
 
 ## Others 
 
+- [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
