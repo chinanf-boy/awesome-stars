@@ -16,6 +16,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter notebook)
   - [Others](#others)
+  - [PHP](#php)
   - [Python](#python)
   - [Rascal](#rascal)
   - [Ruby](#ruby)
@@ -26,6 +27,7 @@
 
 ## C 
 
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C++ 
@@ -53,6 +55,7 @@
 
 ## Go 
 
+- [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [godzilla](https://github.com/jingweno/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
@@ -86,7 +89,7 @@
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - The extensible website framework for Hugo
+- [hugo-academic](https://github.com/gcushen/hugo-academic) - The page designer and builder for Hugo. Build and deploy a beautiful website in minutes :rocket:
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [hyperchat](https://github.com/sdegutis/hyperchat) - Hyper-real-time chat
 
@@ -96,6 +99,9 @@
 
 ## JavaScript 
 
+- [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
+- [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php
 - [react](https://github.com/discountry/react) - React docs in Chinese | React 中文文档翻译
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [pwa](https://github.com/lakshyaranganath/pwa) - An opinionated progressive web app boilerplate
@@ -149,7 +155,7 @@
 - [backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
-- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [stale](https://github.com/probot/stale) - automatically close stale Issues and Pull Requests
@@ -177,7 +183,7 @@
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook-boilerplate](https://github.com/sm-react/storybook-boilerplate) - 
-- [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
+- [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ CLI for rapid Vue.js development
 - [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [disqus-proxy-heroku](https://github.com/chinanf-boy/disqus-proxy-heroku) - heroku 版本 disqus-proxy   网站没部署 可以通过 npm run debug 查看
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
@@ -260,6 +266,10 @@
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React
 
+## PHP 
+
+- [the-majesty-of-vuejs-2](https://github.com/hootlex/the-majesty-of-vuejs-2) - Demo APIs and homework solutions for "The Majesty of Vue.js 2"
+
 ## Python 
 
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
@@ -312,6 +322,7 @@
 
 ## TypeScript 
 
+- [vscode-yo](https://github.com/SamVerschueren/vscode-yo) - Yeoman plugin for VS Code
 - [pandora](https://github.com/midwayjs/pandora) - An Ops First Application Manager for Node.js Applications powered by TypeScript.
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
