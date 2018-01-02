@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -310,6 +311,7 @@
 
 ## Shell 
 
+- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
