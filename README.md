@@ -50,7 +50,6 @@
 
 ## CoffeeScript 
 
-- [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) - shadowsocks over WebSocket, support Heroku.
 - [hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
 
 ## Go 
@@ -89,7 +88,7 @@
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - The page designer and builder for Hugo. Build and deploy a beautiful website in minutes :rocket:
+- [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [hyperchat](https://github.com/sdegutis/hyperchat) - Hyper-real-time chat
 
@@ -99,6 +98,9 @@
 
 ## JavaScript 
 
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
+- [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
+- [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php
@@ -135,6 +137,7 @@
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [smart-mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
+- [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) - shadowsocks over WebSocket, support Heroku.
 - [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
 - [react-pivottable](https://github.com/plotly/react-pivottable) - React-based drag'n'drop pivot table with Plotly.js charts
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
@@ -324,6 +327,7 @@
 
 ## TypeScript 
 
+- [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [vscode-yo](https://github.com/SamVerschueren/vscode-yo) - Yeoman plugin for VS Code
 - [pandora](https://github.com/midwayjs/pandora) - An Ops First Application Manager for Node.js Applications powered by TypeScript.
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
