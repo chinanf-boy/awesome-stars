@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
@@ -98,6 +99,7 @@
 
 ## JavaScript 
 
+- [rmwc](https://github.com/jamesmfriedman/rmwc) - A thin React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
@@ -275,6 +277,7 @@
 
 ## Python 
 
+- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
