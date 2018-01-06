@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A thin React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
@@ -258,7 +259,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释
+- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 👀
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
