@@ -86,7 +86,6 @@
 
 ## HTML 
 
-- [youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js :rocket:
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -102,7 +101,7 @@
 ## JavaScript 
 
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
-- [rmwc](https://github.com/jamesmfriedman/rmwc) - A thin React wrapper for Material Design (Web) Components
+- [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
 - [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
@@ -122,6 +121,7 @@
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
+- [youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js :rocket:
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -246,12 +246,14 @@
 
 ## Others 
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
+- [explain-vuera](https://github.com/chinanf-boy/explain-vuera) - explain vuera  --project- about babel-plugins, react, vue,  有关react与vue 的共用
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
-- [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 没有手动翻译 使用 translate-js
+- [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 后缀.zh.md 就是 - 没有手动翻译 使用 translate-js
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -279,6 +281,9 @@
 
 ## Python 
 
+- [em-keyboard](https://github.com/kennethreitz/em-keyboard) - the cli emoji keyboard™
+- [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
+- [delegator.py](https://github.com/kennethreitz/delegator.py) - Subprocesses for Humans 2.0.
 - [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
