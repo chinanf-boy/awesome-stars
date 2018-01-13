@@ -55,6 +55,7 @@
 
 ## Go 
 
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
@@ -100,6 +101,9 @@
 
 ## JavaScript 
 
+- [workerize](https://github.com/developit/workerize) - Run a module in a Web Worker.
+- [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
