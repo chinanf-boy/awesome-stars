@@ -101,6 +101,11 @@
 
 ## JavaScript 
 
+- [reactivesearch](https://github.com/appbaseio/reactivesearch) - A React components library for building awesome :mag: search UIs
+- [import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
+- [size-limit](https://github.com/ai/size-limit) - Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.
+- [nanoclone](https://github.com/Kelin2025/nanoclone) - Tiny util to deep clone JavaScript objects
+- [gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing fast static site generator for React
 - [workerize](https://github.com/developit/workerize) - Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
@@ -341,6 +346,7 @@
 
 ## TypeScript 
 
+- [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [vscode-yo](https://github.com/SamVerschueren/vscode-yo) - Yeoman plugin for VS Code
 - [pandora](https://github.com/midwayjs/pandora) - An Ops First Application Manager for Node.js Applications powered by TypeScript.
