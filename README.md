@@ -32,6 +32,7 @@
 
 ## C++ 
 
+- [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x API for node.js, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -101,6 +102,10 @@
 
 ## JavaScript 
 
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
+- [knw](https://github.com/ryanwiemer/knw) - KNW Photography - Digital portfolio for San Francisco Bay Area photographer Kirsten Wiemer
+- [api-platform](https://github.com/api-platform/api-platform) - Build hypermedia and GraphQL APIs in minutes, generate Progressive Web Apps to consume them.
+- [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [nuxt7](https://github.com/nuxt-community/nuxt7) - 📱 Full Featured iOS & Android PWA Apps with Nuxt.js and Framework7
 - [tinydate](https://github.com/lukeed/tinydate) - A tiny (337B) reusable date formatter. Extremely fast!
 - [bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (696 bytes gzipped)
@@ -351,10 +356,11 @@
 
 ## TypeScript 
 
+- [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [vscode-yo](https://github.com/SamVerschueren/vscode-yo) - Yeoman plugin for VS Code
-- [pandora](https://github.com/midwayjs/pandora) - An Ops First Application Manager for Node.js Applications powered by TypeScript.
+- [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
