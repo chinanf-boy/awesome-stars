@@ -15,11 +15,13 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter notebook)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
   - [Rascal](#rascal)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -102,6 +104,15 @@
 
 ## JavaScript 
 
+- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
+- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular
+- [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [knw](https://github.com/ryanwiemer/knw) - KNW Photography - Digital portfolio for San Francisco Bay Area photographer Kirsten Wiemer
 - [api-platform](https://github.com/api-platform/api-platform) - Build hypermedia and GraphQL APIs in minutes, generate Progressive Web Apps to consume them.
@@ -263,8 +274,13 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
+## Objective-C 
+
+- [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
+
 ## Others 
 
+- [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" toolkits
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [explain-vuera](https://github.com/chinanf-boy/explain-vuera) - explain vuera  --project- about babel-plugins, react, vue,  有关react与vue 的共用
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
@@ -300,10 +316,12 @@
 
 ## Python 
 
+- [lazyload](https://github.com/thomasballinger/lazyload) - hack for causing Python modules to be loaded lazily
+- [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [em-keyboard](https://github.com/kennethreitz/em-keyboard) - the cli emoji keyboard™
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [delegator.py](https://github.com/kennethreitz/delegator.py) - Subprocesses for Humans 2.0.
-- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
+- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
@@ -340,6 +358,10 @@
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
+
+## Rust 
+
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Shell 
 
