@@ -107,6 +107,10 @@
 
 ## JavaScript 
 
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
+- [nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
 - [stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
@@ -312,7 +316,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 👀
+- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前js 后go 接python 听起来就好吃 👀
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
