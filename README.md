@@ -107,6 +107,10 @@
 
 ## JavaScript 
 
+- [log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
+- [throng](https://github.com/hunterloftis/throng) - A simple worker-manager for clustered Node.js apps
+- [shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks
+- [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
 - [nanoid](https://github.com/ai/nanoid) - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
@@ -277,7 +281,7 @@
 - [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 - [editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration.
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [Side-content](https://github.com/chinanf-boy/Side-content) - side-content can Title link Side
 - [sco.js](https://github.com/terebentina/sco.js) - Javascript extensions for twitter bootstrap
@@ -298,6 +302,7 @@
 
 ## Others 
 
+- [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" toolkits
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
