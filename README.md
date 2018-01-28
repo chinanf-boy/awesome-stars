@@ -59,6 +59,10 @@
 
 ## Go 
 
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
@@ -92,6 +96,7 @@
 
 ## HTML 
 
+- [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -107,6 +112,14 @@
 
 ## JavaScript 
 
+- [pseudo-worker](https://github.com/nolanlawson/pseudo-worker) - A tiny and mostly spec-compliant WebWorker polyfill
+- [naivechain](https://github.com/lhartikk/naivechain) - A blockchain implementation in 200 lines of code
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+- [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
+- [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 - [throng](https://github.com/hunterloftis/throng) - A simple worker-manager for clustered Node.js apps
 - [shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks
@@ -155,7 +168,7 @@
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
-- [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
+- [pm2](https://github.com/Unitech/pm2) - General Purpose Process Manager and Node.js Production Runtime with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php
@@ -249,7 +262,7 @@
 - [next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [artDialog](https://github.com/aui/artDialog) - 经典的网页对话框组件
-- [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
@@ -340,6 +353,7 @@
 
 ## Python 
 
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [lazyload](https://github.com/thomasballinger/lazyload) - hack for causing Python modules to be loaded lazily
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -374,7 +388,7 @@
 
 ## Rascal 
 
-- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
+- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Ruby 
 
@@ -420,6 +434,7 @@
 
 ## Vue 
 
+- [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
 - [web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js
