@@ -42,6 +42,7 @@
 
 ## CSS 
 
+- [Web-Weapon](https://github.com/chinanf-boy/Web-Weapon) - web weapon use teahs 网络武器库
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
@@ -49,7 +50,6 @@
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-- [Web-Weapon](https://github.com/chinanf-boy/Web-Weapon) - web weapon use teahs 网络武器库
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 
@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [analyticsjs-boilerplate](https://github.com/philipwalton/analyticsjs-boilerplate) - Examples and best practices for using analytics.js
 - [pseudo-worker](https://github.com/nolanlawson/pseudo-worker) - A tiny and mostly spec-compliant WebWorker polyfill
 - [naivechain](https://github.com/lhartikk/naivechain) - A blockchain implementation in 200 lines of code
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
@@ -376,7 +377,7 @@
 - [setup.py](https://github.com/kennethreitz/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
 - [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [reddit](https://github.com/reddit/reddit) - historical code from reddit.com
+- [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -384,7 +385,6 @@
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3
-- [day_repr](https://github.com/chinanf-boy/day_repr) - noteddddd my learn
 
 ## Rascal 
 
@@ -418,6 +418,7 @@
 
 ## TypeScript 
 
+- [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
