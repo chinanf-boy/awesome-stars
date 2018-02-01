@@ -15,6 +15,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter notebook)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -112,6 +113,8 @@
 
 ## JavaScript 
 
+- [glow](https://github.com/thejameskyle/glow) - Make your Flow errors GLOW
+- [react-loadable](https://github.com/thejameskyle/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Checklist-Tools-Website](https://github.com/AlexisDanizan/Checklist-Tools-Website) - 🍿 The perfect Checklist Website for meticulous developers.
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [analyticsjs-boilerplate](https://github.com/philipwalton/analyticsjs-boilerplate) - Examples and best practices for using analytics.js
@@ -311,6 +314,10 @@
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras) - A neural network that transforms a screenshot into a static website
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
+
+## OCaml 
+
+- [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
 
