@@ -48,6 +48,8 @@
 
 ## CSS 
 
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [Web-Weapon](https://github.com/chinanf-boy/Web-Weapon) - web weapon use teahs 网络武器库
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -102,6 +104,7 @@
 
 ## HTML 
 
+- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
@@ -118,6 +121,14 @@
 
 ## JavaScript 
 
+- [click-away](https://github.com/r24y/click-away) - Handle clicking away from an element -- React/Preact compatible
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+- [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+- [Sequence](https://github.com/IanLunn/Sequence) - The responsive CSS animation framework for creating unique sliders, presentations, banners, and other step-based applications.
+- [cube-ui](https://github.com/didi/cube-ui) - :large_orange_diamond: A fantastic mobile ui lib implement by Vue
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+- [vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
+- [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [glow](https://github.com/thejameskyle/glow) - Make your Flow errors GLOW
 - [react-loadable](https://github.com/thejameskyle/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Checklist-Tools-Website](https://github.com/AlexisDanizan/Checklist-Tools-Website) - 🍿 The perfect Checklist Website for meticulous developers.
@@ -434,6 +445,7 @@
 
 ## TypeScript 
 
+- [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted ECMAScript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
@@ -451,6 +463,7 @@
 
 ## Vue 
 
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
 - [web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
