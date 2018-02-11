@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -120,6 +121,10 @@
 
 ## JavaScript 
 
+- [js-stack-from-scratch](https://github.com/yepbug/js-stack-from-scratch) - 🎉 第二版 🎉 — 从零开始构建 JavaScript 技术栈
+- [node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [react-worker-image](https://github.com/nitish24p/react-worker-image) - React component to fetch image resources via web workers 🤖🤖
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
 - [click-away](https://github.com/r24y/click-away) - Handle clicking away from an element -- React/Preact compatible
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
@@ -341,6 +346,7 @@
 
 ## Others 
 
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
@@ -402,7 +408,7 @@
 - [ShadowSocksShare-OpenShift](https://github.com/the0demiurge/ShadowSocksShare-OpenShift) - Python爬虫/Flask网站实例/免费ShadowSocks帐号/ssr订阅/json API
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [setup.py](https://github.com/kennethreitz/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -445,6 +451,7 @@
 
 ## TypeScript 
 
+- [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted ECMAScript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
@@ -463,6 +470,7 @@
 
 ## Vue 
 
+- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
 - [web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming
