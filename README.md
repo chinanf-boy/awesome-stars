@@ -121,6 +121,8 @@
 
 ## JavaScript 
 
+- [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
+- [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [js-stack-from-scratch](https://github.com/yepbug/js-stack-from-scratch) - 🎉 第二版 🎉 — 从零开始构建 JavaScript 技术栈
 - [node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
