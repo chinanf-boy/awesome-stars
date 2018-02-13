@@ -121,6 +121,7 @@
 
 ## JavaScript 
 
+- [vscode-markdown-shortcuts](https://github.com/mdickin/vscode-markdown-shortcuts) - Markdown shortcuts extension for Visual Studio Code
 - [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [js-stack-from-scratch](https://github.com/yepbug/js-stack-from-scratch) - 🎉 第二版 🎉 — 从零开始构建 JavaScript 技术栈
@@ -136,8 +137,8 @@
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [glow](https://github.com/thejameskyle/glow) - Make your Flow errors GLOW
-- [react-loadable](https://github.com/thejameskyle/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
+- [glow](https://github.com/jamiebuilds/glow) - Make your Flow errors GLOW
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Checklist-Tools-Website](https://github.com/AlexisDanizan/Checklist-Tools-Website) - 🍿 The perfect Checklist Website for meticulous developers.
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [analyticsjs-boilerplate](https://github.com/philipwalton/analyticsjs-boilerplate) - Examples and best practices for using analytics.js
