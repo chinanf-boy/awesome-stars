@@ -48,6 +48,7 @@
 
 ## CSS 
 
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -66,6 +67,7 @@
 
 ## Go 
 
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -121,6 +123,15 @@
 
 ## JavaScript 
 
+- [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
+- [rekit](https://github.com/supnate/rekit) - Toolkit for building scalable web applications with React, Redux and React-router
+- [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
+- [react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
+- [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [vscode-markdown-shortcuts](https://github.com/mdickin/vscode-markdown-shortcuts) - Markdown shortcuts extension for Visual Studio Code
 - [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
@@ -156,7 +167,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (174 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (172 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -209,7 +220,7 @@
 - [react-dom-stream](https://github.com/aickin/react-dom-stream) - A streaming server-side rendering library for React.
 - [core](https://github.com/stackblitz/core) - Online VS Code IDE for Angular & React
 - [Vue_Typescript_Todolist](https://github.com/coding-blocks-archives/Vue_Typescript_Todolist) - 
-- [react-content-loader](https://github.com/danilowoz/react-content-loader) - React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - :white_circle: SVG component to create placeholder loading, like Facebook cards loading.
 - [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - Easy scroll animations for web and mobile browsers.
 - [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
@@ -454,6 +465,8 @@
 
 ## TypeScript 
 
+- [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation
+- [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted ECMAScript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
