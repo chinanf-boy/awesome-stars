@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -123,6 +124,11 @@
 
 ## JavaScript 
 
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
+- [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
+- [vmark](https://github.com/egoist/vmark) - Convert markdown to Vue component.
+- [husky](https://github.com/typicode/husky) - :dog: Git hooks made easy
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
