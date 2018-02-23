@@ -67,6 +67,8 @@
 
 ## Go 
 
+- [caire](https://github.com/esimov/caire) - Content aware image resize library
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -107,6 +109,7 @@
 
 ## HTML 
 
+- [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
@@ -124,6 +127,16 @@
 
 ## JavaScript 
 
+- [airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
+- [react-transition-group-plus](https://github.com/cheapsteak/react-transition-group-plus) - A more full-featured transition group for React
+- [react-graphql-github-apollo](https://github.com/rwieruch/react-graphql-github-apollo) - A React + Apollo + GraphQL GitHub Client
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: A complete overview of the JavaScript landscape in 2017: trends about front-end and node.js frameworks, tooling, IDE, mobile, testing, SSG, Vue, React...  Available in English, Chinese, French and Spanish
+- [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
+- [electron-webpack-preact](https://github.com/deadcoder0904/electron-webpack-preact) - Simple Boilerplate for Electron 🖥️ Preact ⚛️ Webpack ⚡
+- [StateOfJS](https://github.com/StateOfJS/StateOfJS) - The State of JS website
+- [dset](https://github.com/lukeed/dset) - A tiny (135B) utility for safely writing deep Object values~!
+- [xo](https://github.com/xojs/xo) - ❤️ JavaScript happiness style linter
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
@@ -212,7 +225,7 @@
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript library for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
 - [pm2](https://github.com/Unitech/pm2) - General Purpose Process Manager and Node.js Production Runtime with a built-in Load Balancer.
