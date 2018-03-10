@@ -15,7 +15,8 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
-  - [Jupyter Notebook](#jupyter notebook)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -42,12 +43,14 @@
 
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
-- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x API for node.js, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 
 ## CSS 
 
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [cssnano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -67,6 +70,13 @@
 
 ## Go 
 
+- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的接口在线文档管理系统
+- [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
@@ -109,9 +119,14 @@
 
 ## HTML 
 
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+- [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) - A curated collection of useful CSS snippets.
 - [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
+- [core](https://github.com/stackblitz/core) - Online IDE powered by VS Code
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -127,9 +142,37 @@
 
 ## JavaScript 
 
+- [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
+- [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - 📦 Make Parcel support Vue single file components.
+- [vue-promised](https://github.com/posva/vue-promised) - Promises as components
+- [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - resources for React Fiber
+- [didact](https://github.com/hexacta/didact) - A DIY guide to build your own React
+- [angular-presentation](https://github.com/nycJSorg/angular-presentation) - Angular presentation library
+- [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
+- [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+- [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
+- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
+- [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
+- [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
+- [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
+- [bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
+- [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site) - 
+- [current-weather](https://github.com/Cold-Coast/current-weather) - 
+- [github-image-diff](https://github.com/bokuweb/github-image-diff) - [experimental] :octocat: A chrome extension to check github image difference.
+- [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
+- [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
+- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [codesandbox-client](https://github.com/CompuIves/codesandbox-client) - An online code editor tailored for web application development 🏖️
+- [react-scroll-list](https://github.com/itrelease/react-scroll-list) - 
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
+- [vuep](https://github.com/QingWei-Li/vuep) - 🎡 A component for rendering Vue components with live editor and preview.
+- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
+- [bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appsecret, 不借助其他网站
+- [gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
+- [react-snap-example](https://github.com/badsyntax/react-snap-example) - Example project for react-snap
 - [airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
 - [react-transition-group-plus](https://github.com/cheapsteak/react-transition-group-plus) - A more full-featured transition group for React
-- [react-graphql-github-apollo](https://github.com/rwieruch/react-graphql-github-apollo) - A React + Apollo + GraphQL GitHub Client
+- [react-graphql-github-apollo](https://github.com/rwieruch/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: A complete overview of the JavaScript landscape in 2017: trends about front-end and node.js frameworks, tooling, IDE, mobile, testing, SSG, Vue, React...  Available in English, Chinese, French and Spanish
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
@@ -145,9 +188,9 @@
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
-- [rekit](https://github.com/supnate/rekit) - Toolkit for building scalable web applications with React, Redux and React-router
+- [rekit](https://github.com/supnate/rekit) - Dedicated IDE and toolkit for building scalable web applications with React, Redux and React-router
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
-- [react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
+- [react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus.
 - [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -186,7 +229,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (172 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (170 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -217,7 +260,7 @@
 - [tinydate](https://github.com/lukeed/tinydate) - A tiny (337B) reusable date formatter. Extremely fast!
 - [bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (696 bytes gzipped)
 - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list ✌️
-- [reactivesearch](https://github.com/appbaseio/reactivesearch) - A React components library for building awesome :mag: search UIs
+- [reactivesearch](https://github.com/appbaseio/reactivesearch) - A React and React Native UI components library for building data-driven apps
 - [import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [size-limit](https://github.com/ai/size-limit) - Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.
 - [nanoclone](https://github.com/Kelin2025/nanoclone) - Tiny util to deep clone JavaScript objects
@@ -225,10 +268,10 @@
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript library for building web applications.
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript framework for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
-- [pm2](https://github.com/Unitech/pm2) - General Purpose Process Manager and Node.js Production Runtime with a built-in Load Balancer.
+- [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php
@@ -237,7 +280,6 @@
 - [pwa](https://github.com/lakshyaranganath/pwa) - An opinionated progressive web app boilerplate
 - [loadCSS](https://github.com/filamentgroup/loadCSS) - A function for loading CSS asynchronously
 - [react-dom-stream](https://github.com/aickin/react-dom-stream) - A streaming server-side rendering library for React.
-- [core](https://github.com/stackblitz/core) - Online VS Code IDE for Angular & React
 - [Vue_Typescript_Todolist](https://github.com/coding-blocks-archives/Vue_Typescript_Todolist) - 
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - :white_circle: SVG component to create placeholder loading, like Facebook cards loading.
 - [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
@@ -369,6 +411,10 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
+## Makefile 
+
+- [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
+
 ## OCaml 
 
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -379,6 +425,13 @@
 
 ## Others 
 
+- [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
+- [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
+- [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
+- [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -399,7 +452,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前js 后go 接python 听起来就好吃 👀
+- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前-js 后-go 接-python 听起来就好吃 👀
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -418,6 +471,12 @@
 
 ## Python 
 
+- [package_control_channel](https://github.com/wbond/package_control_channel) - Default channel file for Package Control. Follow the directions at:
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
+- [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过MXNet/Gluon来动手学习深度学习
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -466,10 +525,13 @@
 
 ## Rust 
 
+- [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ pack up the wasm and publish it to npm!
+- [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Shell 
 
+- [n](https://github.com/tj/n) - Node version management
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -484,10 +546,14 @@
 
 ## TypeScript 
 
+- [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [typewiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss 📦👌
 - [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-- [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted ECMAScript parser with high focus on both performance and stability
+- [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
@@ -505,6 +571,7 @@
 
 ## Vue 
 
+- [discord-logo](https://github.com/NNTin/discord-logo) - animated discord logo in svg
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
