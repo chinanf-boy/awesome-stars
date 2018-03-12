@@ -70,6 +70,7 @@
 
 ## Go 
 
+- [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
@@ -142,6 +143,8 @@
 
 ## JavaScript 
 
+- [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
+- [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
 - [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - 📦 Make Parcel support Vue single file components.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
@@ -425,6 +428,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
@@ -526,7 +530,6 @@
 ## Rust 
 
 - [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ pack up the wasm and publish it to npm!
-- [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Shell 
@@ -542,6 +545,7 @@
 
 ## Swift 
 
+- [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
 ## TypeScript 
