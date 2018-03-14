@@ -121,6 +121,8 @@
 
 ## HTML 
 
+- [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
@@ -128,7 +130,7 @@
 - [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
-- [core](https://github.com/stackblitz/core) - Online IDE powered by VS Code
+- [core](https://github.com/stackblitz/core) - Online IDE powered by VS Code ⚡️
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -144,6 +146,10 @@
 
 ## JavaScript 
 
+- [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
+- [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [vue-cli-plugin-vuetify](https://github.com/vuetifyjs/vue-cli-plugin-vuetify) - Plugin for vue-cli 3
 - [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
@@ -194,7 +200,7 @@
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
-- [rekit](https://github.com/supnate/rekit) - Dedicated IDE and toolkit for building scalable web applications with React, Redux and React-router
+- [rekit](https://github.com/supnate/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus.
 - [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
@@ -578,6 +584,7 @@
 
 ## Vue 
 
+- [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [discord-logo](https://github.com/NNTin/discord-logo) - animated discord logo in svg
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
