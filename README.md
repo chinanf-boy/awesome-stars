@@ -146,6 +146,8 @@
 
 ## JavaScript 
 
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. More details on the site &gt;
+- [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -584,6 +586,8 @@
 
 ## Vue 
 
+- [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
+- [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [discord-logo](https://github.com/NNTin/discord-logo) - animated discord logo in svg
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
