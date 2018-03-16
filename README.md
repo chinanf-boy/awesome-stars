@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -49,6 +50,7 @@
 
 ## CSS 
 
+- [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [cssnano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
@@ -68,6 +70,10 @@
 ## CoffeeScript 
 
 - [hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
+
+## Dart 
+
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## Go 
 
@@ -146,6 +152,9 @@
 
 ## JavaScript 
 
+- [ink-autocomplete](https://github.com/maticzav/ink-autocomplete) - 🧠 An autocomplete component for Ink.
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. More details on the site &gt;
 - [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
