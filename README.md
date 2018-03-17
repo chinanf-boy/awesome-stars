@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [ink-autocomplete](https://github.com/maticzav/ink-autocomplete) - 🧠 An autocomplete component for Ink.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -448,6 +449,7 @@
 
 ## Others 
 
+- [shopping-list](https://github.com/ibm-watson-data-lab/shopping-list) - A series of Offline First shopping list demo apps, each built using a different stack.
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -549,6 +551,7 @@
 
 ## Rust 
 
+- [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
 - [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ pack up the wasm and publish it to npm!
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
