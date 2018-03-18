@@ -152,6 +152,10 @@
 
 ## JavaScript 
 
+- [babel-upgrade](https://github.com/babel/babel-upgrade) - Tool for upgrading babel versions (v7): `npx babel-upgrade`
+- [babel-loader](https://github.com/babel/babel-loader) - 📦 Webpack plugin for Babel
+- [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
+- [testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [ink-autocomplete](https://github.com/maticzav/ink-autocomplete) - 🧠 An autocomplete component for Ink.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
