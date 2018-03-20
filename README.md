@@ -152,6 +152,8 @@
 
 ## JavaScript 
 
+- [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
+- [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [babel-upgrade](https://github.com/babel/babel-upgrade) - Tool for upgrading babel versions (v7): `npx babel-upgrade`
