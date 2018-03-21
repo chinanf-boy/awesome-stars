@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
@@ -506,6 +507,7 @@
 
 ## Python 
 
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [package_control_channel](https://github.com/wbond/package_control_channel) - Default channel file for Package Control. Follow the directions at:
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
