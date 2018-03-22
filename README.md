@@ -77,6 +77,7 @@
 
 ## Go 
 
+- [annie](https://github.com/iawia002/annie) - 👾 A fast, simple and clean video downloader
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
@@ -178,7 +179,7 @@
 - [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - 📦 Make Parcel support Vue single file components.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
-- [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - resources for React Fiber
+- [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
 - [didact](https://github.com/hexacta/didact) - A DIY guide to build your own React
 - [angular-presentation](https://github.com/nycJSorg/angular-presentation) - Angular presentation library
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
