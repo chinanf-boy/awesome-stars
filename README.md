@@ -77,6 +77,8 @@
 
 ## Go 
 
+- [color](https://github.com/fatih/color) - Color package for Go (golang)
+- [pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
 - [annie](https://github.com/iawia002/annie) - 👾 A fast, simple and clean video downloader
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -139,7 +141,7 @@
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [core](https://github.com/stackblitz/core) - Online IDE powered by VS Code ⚡️
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
-- [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout library
+- [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
@@ -153,6 +155,8 @@
 
 ## JavaScript 
 
+- [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan
+- [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
