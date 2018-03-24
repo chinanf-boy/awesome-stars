@@ -130,6 +130,7 @@
 
 ## HTML 
 
+- [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -155,6 +156,9 @@
 
 ## JavaScript 
 
+- [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
+- [create-react-content-loader](https://github.com/danilowoz/create-react-content-loader) - :pencil2: Tool to create your own react-content-loader easily.
+- [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
@@ -463,6 +467,8 @@
 
 ## Others 
 
+- [Export-Example](https://github.com/chinanf-boy/Export-Example) - show example or demo-example or 库🌰
+- [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [shopping-list](https://github.com/ibm-watson-data-lab/shopping-list) - A series of Offline First shopping list demo apps, each built using a different stack.
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
