@@ -179,7 +179,7 @@
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [vue-cli-plugin-vuetify](https://github.com/vuetifyjs/vue-cli-plugin-vuetify) - Plugin for vue-cli 3
+- [vue-cli-plugin-vuetify](https://github.com/vuetifyjs/vue-cli-plugin-vuetify) - Vuetify plugin for vue-cli 3
 - [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
