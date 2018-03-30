@@ -114,7 +114,7 @@
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
-- [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的社区系统
+- [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [ipservice](https://github.com/zensh/ipservice) - 基于 https://github.com/teambition/gear Go Web 框架和 http://www.ipip.net/ IP 数据库实现的 IP 查询服务。
 - [pholcus](https://github.com/henrylee2cn/pholcus) - [Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software.
@@ -156,6 +156,8 @@
 
 ## JavaScript 
 
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules
+- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [translate-mds](https://github.com/chinanf-boy/translate-mds) - 3.0 啦 快点进来 - translate you md files 你想翻译的 的 md 文章 或 文件夹👀  | 😊已翻译列表 &gt;&gt;&gt;
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
@@ -188,7 +190,7 @@
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
 - [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
-- [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - 📦 Make Parcel support Vue single file components.
+- [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
 - [didact](https://github.com/hexacta/didact) - A DIY guide to build your own React
@@ -371,7 +373,7 @@
 - [node-micro-service-bootstrap](https://github.com/coreorm/node-micro-service-bootstrap) - bootstrap for nodejs micro services
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
-- [nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Developers Framework
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
@@ -593,6 +595,7 @@
 
 ## Swift 
 
+- [do-not-disturb](https://github.com/sindresorhus/do-not-disturb) - Control the macOS `Do Not Disturb` feature
 - [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
