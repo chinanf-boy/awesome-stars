@@ -156,6 +156,8 @@
 
 ## JavaScript 
 
+- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules
 - [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [translate-mds](https://github.com/chinanf-boy/translate-mds) - 3.0 啦 快点进来 - translate you md files 你想翻译的 的 md 文章 或 文件夹👀  | 😊已翻译列表 &gt;&gt;&gt;
@@ -471,6 +473,7 @@
 
 ## Others 
 
+- [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Export-Example](https://github.com/chinanf-boy/Export-Example) - show example or demo-example or 库🌰
 - [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
