@@ -62,7 +62,6 @@
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
-- [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
@@ -77,6 +76,7 @@
 
 ## Go 
 
+- [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
 - [annie](https://github.com/iawia002/annie) - 👾 A fast, simple and clean video downloader
@@ -156,6 +156,8 @@
 
 ## JavaScript 
 
+- [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
+- [webpack-critical](https://github.com/lukeed/webpack-critical) - Extracts & inlines Critical CSS with Wepack
 - [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules
@@ -207,7 +209,7 @@
 - [bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
 - [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site) - 
 - [current-weather](https://github.com/Cold-Coast/current-weather) - 
-- [github-image-diff](https://github.com/bokuweb/github-image-diff) - [experimental] :octocat: A chrome extension to check github image difference.
+- [github-image-diff](https://github.com/bokuweb/github-image-diff) - 🚧 [WIP] :octocat: A chrome extension to check github image difference.
 - [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -593,6 +595,7 @@
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
+- [hugoThemes](https://github.com/gohugoio/hugoThemes) - All Hugo themes
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 
