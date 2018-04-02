@@ -614,7 +614,7 @@
 - [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-- [cherow](https://github.com/cherow/cherow) - Very fast, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
+- [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
