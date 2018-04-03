@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
@@ -156,6 +157,10 @@
 
 ## JavaScript 
 
+- [yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module
+- [gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 - [webpack-critical](https://github.com/lukeed/webpack-critical) - Extracts & inlines Critical CSS with Wepack
 - [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
@@ -475,6 +480,7 @@
 
 ## Others 
 
+- [ink-explain](https://github.com/chinanf-boy/ink-explain) - explain : 「 ink 」对CLI做出-React。 使用组件构建和测试您的CLI输出
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Export-Example](https://github.com/chinanf-boy/Export-Example) - show example or demo-example or 库🌰
@@ -485,7 +491,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
