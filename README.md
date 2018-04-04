@@ -76,6 +76,8 @@
 
 ## Go 
 
+- [work](https://github.com/gocraft/work) - Process background jobs in Go
+- [wsify](https://github.com/alash3al/wsify) - Just a tiny, simple and real-time self-hosted pub/sub messaging service
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -131,6 +133,7 @@
 
 ## HTML 
 
+- [go101](https://github.com/go101/go101) - a book focusing on Go syntax and semantics
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
@@ -157,6 +160,9 @@
 
 ## JavaScript 
 
+- [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
+- [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module
