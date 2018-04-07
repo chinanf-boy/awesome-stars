@@ -38,7 +38,7 @@
 
 ## C# # 
 
-- [choco](https://github.com/chocolatey/choco) - Chocolatey CLI
+- [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## C++ 
 
@@ -50,6 +50,7 @@
 
 ## CSS 
 
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -76,6 +77,9 @@
 
 ## Go 
 
+- [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+- [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
 - [work](https://github.com/gocraft/work) - Process background jobs in Go
 - [wsify](https://github.com/alash3al/wsify) - Just a tiny, simple and real-time self-hosted pub/sub messaging service
 - [soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
@@ -133,7 +137,7 @@
 
 ## HTML 
 
-- [go101](https://github.com/go101/go101) - a book focusing on Go syntax and semantics
+- [go101](https://github.com/go101/go101) - a book focusing on Go syntax/semantics and all kinds of details.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
@@ -160,6 +164,11 @@
 
 ## JavaScript 
 
+- [flatqueue](https://github.com/mourner/flatqueue) - A very fast and simple JavaScript priority queue
+- [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
+- [react-graphql-github-vanilla](https://github.com/rwieruch/react-graphql-github-vanilla) - A React GraphQL example using GitHub's GraphQL API with vanilla JS
+- [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
@@ -177,7 +186,7 @@
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
-- [create-react-content-loader](https://github.com/danilowoz/create-react-content-loader) - :pencil2: Tool to create your own react-content-loader easily.
+- [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own react-content-loader easily.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
@@ -545,7 +554,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
-- [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过MXNet/Gluon来动手学习深度学习
+- [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过 MXNet / Gluon 来动手学习深度学习
 - [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
@@ -601,6 +610,8 @@
 
 ## Shell 
 
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [n](https://github.com/tj/n) - Node version management
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
