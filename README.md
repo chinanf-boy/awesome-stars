@@ -164,6 +164,8 @@
 
 ## JavaScript 
 
+- [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
+- [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites.
 - [flatqueue](https://github.com/mourner/flatqueue) - A very fast and simple JavaScript priority queue
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
@@ -630,6 +632,7 @@
 
 ## TypeScript 
 
+- [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [typewiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
