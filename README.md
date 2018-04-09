@@ -164,6 +164,8 @@
 
 ## JavaScript 
 
+- [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+- [jest](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing.
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
 - [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites.
 - [flatqueue](https://github.com/mourner/flatqueue) - A very fast and simple JavaScript priority queue
@@ -215,7 +217,7 @@
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
-- [poi](https://github.com/egoist/poi) - :zap: Delightful web development.
+- [poi](https://github.com/egoist/poi) - :zap: Zero-config bundler for JavaScript applications
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
@@ -224,7 +226,6 @@
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
-- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
 - [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
@@ -662,6 +663,7 @@
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [discord-logo](https://github.com/NNTin/discord-logo) - animated discord logo in svg
+- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
