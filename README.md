@@ -17,7 +17,6 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -50,6 +49,7 @@
 
 ## CSS 
 
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
@@ -77,6 +77,8 @@
 
 ## Go 
 
+- [bed](https://github.com/itchyny/bed) - Binary editor written in Go
+- [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
@@ -88,6 +90,7 @@
 - [pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
 - [annie](https://github.com/iawia002/annie) - 👾 A fast, simple and clean video downloader
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
+- [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
@@ -164,6 +167,10 @@
 
 ## JavaScript 
 
+- [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
+- [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React lifecycle methods diagram.
+- [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [jest](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing.
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
@@ -484,10 +491,6 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
-## Makefile 
-
-- [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
-
 ## OCaml 
 
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -498,6 +501,8 @@
 
 ## Others 
 
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [ink-explain](https://github.com/chinanf-boy/ink-explain) - explain : 「 ink 」对CLI做出-React。 使用组件构建和测试您的CLI输出
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -613,6 +618,7 @@
 
 ## Shell 
 
+- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [n](https://github.com/tj/n) - Node version management
