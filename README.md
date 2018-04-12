@@ -665,6 +665,7 @@
 
 ## Vue 
 
+- [v-oogle](https://github.com/VeryWow/v-oogle) - google.com, reVued
 - [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
