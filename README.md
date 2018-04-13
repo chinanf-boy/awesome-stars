@@ -69,6 +69,7 @@
 
 ## CoffeeScript 
 
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
 
 ## Dart 
@@ -167,6 +168,8 @@
 
 ## JavaScript 
 
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
 - [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React lifecycle methods diagram.
 - [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
@@ -224,7 +227,7 @@
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
-- [poi](https://github.com/egoist/poi) - :zap: Zero-config bundler for JavaScript applications
+- [poi](https://github.com/egoist/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
@@ -497,6 +500,7 @@
 
 ## Objective-C 
 
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: Finder toolbar app to open current folder in Visual Studio Code
 - [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 
 ## Others 
@@ -557,6 +561,7 @@
 
 ## Python 
 
+- [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [package_control_channel](https://github.com/wbond/package_control_channel) - Default channel file for Package Control. Follow the directions at:
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
@@ -633,6 +638,8 @@
 
 ## Swift 
 
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - List of open source applications for macOS.
+- [nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb) - Control the macOS `Do Not Disturb` feature
 - [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
@@ -665,7 +672,7 @@
 
 ## Vue 
 
-- [v-oogle](https://github.com/VeryWow/v-oogle) - google.com, reVued
+- [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
 - [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
