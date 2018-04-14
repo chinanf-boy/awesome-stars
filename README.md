@@ -500,7 +500,7 @@
 
 ## Objective-C 
 
-- [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: Finder toolbar app to open current folder in Visual Studio Code
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 
 ## Others 
@@ -638,7 +638,7 @@
 
 ## Swift 
 
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - List of open source applications for macOS.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb) - Control the macOS `Do Not Disturb` feature
 - [gifski-app](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac
