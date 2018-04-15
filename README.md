@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
