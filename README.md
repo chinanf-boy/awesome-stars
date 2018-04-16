@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -343,7 +344,7 @@
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [nuxt7](https://github.com/nuxt-community/nuxt7) - 📱 Full Featured iOS & Android PWA Apps with Nuxt.js and Framework7
 - [tinydate](https://github.com/lukeed/tinydate) - A tiny (337B) reusable date formatter. Extremely fast!
-- [bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (696 bytes gzipped)
+- [bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
 - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list ✌️
 - [reactivesearch](https://github.com/appbaseio/reactivesearch) - A React and React Native UI components library for building data-driven apps
 - [import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
@@ -611,7 +612,7 @@
 ## Ruby 
 
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
