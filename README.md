@@ -52,6 +52,7 @@
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
+- [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [cssnano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
@@ -168,6 +169,13 @@
 
 ## JavaScript 
 
+- [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
+- [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
+- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
+- [recal](https://github.com/rubencodes/recal) - A minimal, accessible React/Preact calendar component using modern CSS.
+- [RockMUD](https://github.com/MoreOutput/RockMUD) - Node Websocket MUD Server. Demo: https://rockmud.herokuapp.com/
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
+- [jsonstore](https://github.com/bluzi/jsonstore) - :floppy_disk: :rocket: Store your data for free by sending simple HTTP requests
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -220,7 +228,6 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. More details on the site &gt;
-- [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -519,7 +526,6 @@
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
@@ -628,6 +634,7 @@
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [n](https://github.com/tj/n) - Node version management
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -674,6 +681,7 @@
 
 ## Vue 
 
+- [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
 - [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
