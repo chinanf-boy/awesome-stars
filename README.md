@@ -169,9 +169,10 @@
 
 ## JavaScript 
 
+- [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
-- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
+- [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [recal](https://github.com/rubencodes/recal) - A minimal, accessible React/Preact calendar component using modern CSS.
 - [RockMUD](https://github.com/MoreOutput/RockMUD) - Node Websocket MUD Server. Demo: https://rockmud.herokuapp.com/
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
