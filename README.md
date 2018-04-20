@@ -98,7 +98,7 @@
 - [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的接口在线文档管理系统
+- [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
@@ -682,6 +682,7 @@
 
 ## Vue 
 
+- [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
 - [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
