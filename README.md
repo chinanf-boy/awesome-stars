@@ -79,6 +79,7 @@
 
 ## Go 
 
+- [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -169,6 +170,11 @@
 
 ## JavaScript 
 
+- [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
+- [kubox](https://github.com/UpperCod/kubox) - If another bookstore more to control the state, but with interesting ideas 🥊
+- [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - A super tiny and ~350% faster alternative to node-glob 🚀
+- [ava-explain](https://github.com/chinanf-boy/ava-explain) - explain : 「ava」未来的JavaScript测试运行器 | Futuristic JavaScript test runner
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
@@ -211,7 +217,7 @@
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
-- [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own react-content-loader easily.
+- [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own content loader easily in React and even Vue.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
