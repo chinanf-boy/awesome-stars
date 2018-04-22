@@ -170,10 +170,15 @@
 
 ## JavaScript 
 
+- [dns.js.org](https://github.com/js-org/dns.js.org) - Providing nice and free domains for GitHub Pages since 2015
+- [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
+- [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
+- [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source web component of data table.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [kubox](https://github.com/UpperCod/kubox) - If another bookstore more to control the state, but with interesting ideas 🥊
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
-- [tiny-glob](https://github.com/terkelg/tiny-glob) - A super tiny and ~350% faster alternative to node-glob 🚀
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob 🚀
 - [ava-explain](https://github.com/chinanf-boy/ava-explain) - explain : 「ava」未来的JavaScript测试运行器 | Futuristic JavaScript test runner
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
@@ -533,6 +538,7 @@
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
@@ -624,6 +630,7 @@
 
 ## Ruby 
 
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
@@ -641,7 +648,6 @@
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [n](https://github.com/tj/n) - Node version management
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -688,6 +694,7 @@
 
 ## Vue 
 
+- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
