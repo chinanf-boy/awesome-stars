@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [dns.js.org](https://github.com/js-org/dns.js.org) - Providing nice and free domains for GitHub Pages since 2015
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
