@@ -170,6 +170,8 @@
 
 ## JavaScript 
 
+- [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
+- [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [dns.js.org](https://github.com/js-org/dns.js.org) - Providing nice and free domains for GitHub Pages since 2015
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
@@ -695,6 +697,7 @@
 
 ## Vue 
 
+- [deezer-vue](https://github.com/sh0cked/deezer-vue) - 
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
