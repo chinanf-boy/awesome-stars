@@ -91,7 +91,7 @@
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
-- [annie](https://github.com/iawia002/annie) - 👾 A fast, simple and clean video downloader
+- [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -170,6 +170,8 @@
 
 ## JavaScript 
 
+- [react-living-app](https://github.com/djirdehh/react-living-app) - 🌎 A react app that helps you compare the cost of living between cities worldwide
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -310,7 +312,7 @@
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [react-worker-image](https://github.com/nitish24p/react-worker-image) - React component to fetch image resources via web workers 🤖🤖
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
-- [click-away](https://github.com/r24y/click-away) - Handle clicking away from an element -- React/Preact compatible
+- [click-away](https://github.com/ryaninvents/click-away) - Handle clicking away from an element -- React/Preact compatible
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Sequence](https://github.com/IanLunn/Sequence) - The responsive CSS animation framework for creating unique sliders, presentations, banners, and other step-based applications.
@@ -671,6 +673,7 @@
 
 ## TypeScript 
 
+- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -697,6 +700,9 @@
 
 ## Vue 
 
+- [ui](https://github.com/vuejs/ui) - UI components for official Vue organization apps
+- [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
+- [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [deezer-vue](https://github.com/sh0cked/deezer-vue) - 
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
