@@ -143,6 +143,7 @@
 
 ## HTML 
 
+- [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [go101](https://github.com/go101/go101) - a book focusing on Go syntax/semantics and all kinds of details.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -170,6 +171,7 @@
 
 ## JavaScript 
 
+- [virtual-list](https://github.com/valdrinkoshi/virtual-list) - 
 - [react-living-app](https://github.com/djirdehh/react-living-app) - 🌎 A react app that helps you compare the cost of living between cities worldwide
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
@@ -531,6 +533,7 @@
 
 ## Others 
 
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [ink-explain](https://github.com/chinanf-boy/ink-explain) - explain : 「 ink 」对CLI做出-React。 使用组件构建和测试您的CLI输出
@@ -619,7 +622,7 @@
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [setup.py](https://github.com/kennethreitz/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [httpbin](https://github.com/requests/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -700,6 +703,7 @@
 
 ## Vue 
 
+- [liaoAliao](https://github.com/chinanf-boy/liaoAliao) - vue-more-talk 聊啊聊 国外网络才能看到, 你可以 clone
 - [ui](https://github.com/vuejs/ui) - UI components for official Vue organization apps
 - [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
