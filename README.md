@@ -79,6 +79,7 @@
 
 ## Go 
 
+- [fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 - [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
@@ -97,7 +98,6 @@
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
-- [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
@@ -146,6 +146,7 @@
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [go101](https://github.com/go101/go101) - a book focusing on Go syntax/semantics and all kinds of details.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
+- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -171,6 +172,15 @@
 
 ## JavaScript 
 
+- [NodePath](https://github.com/chinanf-boy/NodePath) - use Nodejs describe many modules nodepath in server 描述 js 模块路径 重构了文档没更新
+- [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
+- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
+- [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
+- [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template) - a vue2.0 minimal admin template http://panjiachen.github.io/vueAdmin-template
+- [vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
+- [vue-with-go-example](https://github.com/chinanf-boy/vue-with-go-example) - go 与 vue 合并服务
+- [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
+- [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [virtual-list](https://github.com/valdrinkoshi/virtual-list) - 
 - [react-living-app](https://github.com/djirdehh/react-living-app) - 🌎 A react app that helps you compare the cost of living between cities worldwide
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -237,7 +247,6 @@
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [babel-upgrade](https://github.com/babel/babel-upgrade) - Tool for upgrading babel versions (v7): `npx babel-upgrade`
 - [babel-loader](https://github.com/babel/babel-loader) - 📦 Webpack plugin for Babel
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
@@ -262,6 +271,7 @@
 - [didact](https://github.com/hexacta/didact) - A DIY guide to build your own React
 - [angular-presentation](https://github.com/nycJSorg/angular-presentation) - Angular presentation library
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
+- [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
 - [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
@@ -676,6 +686,7 @@
 
 ## TypeScript 
 
+- [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
@@ -703,7 +714,10 @@
 
 ## Vue 
 
-- [liaoAliao](https://github.com/chinanf-boy/liaoAliao) - vue-more-talk 聊啊聊 国外网络才能看到, 你可以 clone
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
+- [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [liaoAliao](https://github.com/chinanf-boy/liaoAliao) - vue-more-talk 聊啊聊
 - [ui](https://github.com/vuejs/ui) - UI components for official Vue organization apps
 - [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
