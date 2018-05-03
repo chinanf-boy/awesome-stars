@@ -144,7 +144,7 @@
 ## HTML 
 
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [go101](https://github.com/go101/go101) - a book focusing on Go syntax/semantics and all kinds of details.
+- [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics and all kinds of details.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -172,6 +172,8 @@
 
 ## JavaScript 
 
+- [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
+- [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [NodePath](https://github.com/chinanf-boy/NodePath) - use Nodejs describe many modules nodepath in server 描述 js 模块路径 重构了文档没更新
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
