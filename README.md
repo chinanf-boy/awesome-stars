@@ -172,6 +172,15 @@
 
 ## JavaScript 
 
+- [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
+- [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Vue.js tooltip directive. Easy to use, configure and style
+- [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for Node.js
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
+- [Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
+- [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [create-proton-app](https://github.com/albe-rosado/create-proton-app) - No Configuration Starter Template for Proton Native Apps
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [NodePath](https://github.com/chinanf-boy/NodePath) - use Nodejs describe many modules nodepath in server 描述 js 模块路径 重构了文档没更新
@@ -243,7 +252,7 @@
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own content loader easily in React and even Vue.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
-- [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan
+- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
