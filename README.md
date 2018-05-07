@@ -403,7 +403,7 @@
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript framework for building web applications.
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
@@ -639,7 +639,7 @@
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [background](https://github.com/kennethreitz/background) - Runs things in the background.
 - [twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
-- [ShadowSocksShare-OpenShift](https://github.com/the0demiurge/ShadowSocksShare-OpenShift) - Python爬虫/Flask网站实例/免费ShadowSocks帐号/ssr订阅/json API
+- [ShadowSocksShare-OpenShift](https://github.com/the0demiurge/ShadowSocksShare-OpenShift) - Python爬虫/Flask网站/免费ShadowSocks帐号/ssr订阅/json API
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [setup.py](https://github.com/kennethreitz/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
