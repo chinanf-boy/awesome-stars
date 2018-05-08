@@ -172,6 +172,8 @@
 
 ## JavaScript 
 
+- [renamer](https://github.com/75lb/renamer) - Batch rename files and folders, recursively
+- [histore](https://github.com/developit/histore) - 🏬 200b key-value store backed by navigation state
 - [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Vue.js tooltip directive. Easy to use, configure and style
 - [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
@@ -549,6 +551,7 @@
 
 ## Objective-C 
 
+- [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for MAC OS X
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 
