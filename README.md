@@ -49,6 +49,7 @@
 
 ## CSS 
 
+- [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -97,7 +98,7 @@
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [githubql](https://github.com/shurcooL/githubql) - Package githubql is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
@@ -143,6 +144,7 @@
 
 ## HTML 
 
+- [html](https://github.com/whatwg/html) - HTML Standard
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics and all kinds of details.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
@@ -172,6 +174,13 @@
 
 ## JavaScript 
 
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+- [esc-exit](https://github.com/sindresorhus/esc-exit) - Exit the process when the `esc` key is pressed
+- [simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+- [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [renamer](https://github.com/75lb/renamer) - Batch rename files and folders, recursively
 - [histore](https://github.com/developit/histore) - 🏬 200b key-value store backed by navigation state
 - [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
@@ -219,7 +228,6 @@
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [jsonstore](https://github.com/bluzi/jsonstore) - :floppy_disk: :rocket: Store your data for free by sending simple HTTP requests
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
@@ -663,6 +671,7 @@
 ## Ruby 
 
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
