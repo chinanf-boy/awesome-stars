@@ -174,6 +174,9 @@
 
 ## JavaScript 
 
+- [cors](https://github.com/koajs/cors) - Cross-Origin Resource Sharing(CORS) for koa
+- [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
+- [GBK.js](https://github.com/cnwhy/GBK.js) - 小而快的GBK库，支持浏览器端
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [esc-exit](https://github.com/sindresorhus/esc-exit) - Exit the process when the `esc` key is pressed
@@ -737,6 +740,7 @@
 
 ## Vue 
 
+- [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
