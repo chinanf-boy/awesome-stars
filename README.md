@@ -745,11 +745,11 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [liaoAliao](https://github.com/chinanf-boy/liaoAliao) - vue-more-talk 聊啊聊
-- [ui](https://github.com/vuejs/ui) - UI components for official Vue organization apps
+- [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
 - [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [deezer-vue](https://github.com/sh0cked/deezer-vue) - 
-- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components
+- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components Framework for Vue.js 2
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
