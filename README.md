@@ -174,6 +174,9 @@
 
 ## JavaScript 
 
+- [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
+- [cpr](https://github.com/davglass/cpr) - Nodejs cp -R
+- [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [cors](https://github.com/koajs/cors) - Cross-Origin Resource Sharing(CORS) for koa
 - [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
 - [GBK.js](https://github.com/cnwhy/GBK.js) - 小而快的GBK库，支持浏览器端
@@ -265,7 +268,6 @@
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own content loader easily in React and even Vue.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
-- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
@@ -740,6 +742,7 @@
 
 ## Vue 
 
+- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client  , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
@@ -753,6 +756,7 @@
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
+- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [storybook-vue-example](https://github.com/shilman/storybook-vue-example) - Storybook for Vue Example
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
