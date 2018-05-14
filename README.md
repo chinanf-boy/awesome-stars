@@ -174,6 +174,8 @@
 
 ## JavaScript 
 
+- [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
 - [cpr](https://github.com/davglass/cpr) - Nodejs cp -R
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
