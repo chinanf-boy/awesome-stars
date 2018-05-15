@@ -174,6 +174,8 @@
 
 ## JavaScript 
 
+- [brusher](https://github.com/kamranahmedse/brusher) - A lightweight library to create interactive backgrounds
+- [tokio](https://github.com/egoist/tokio) - Web scraping made simple.
 - [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
@@ -572,6 +574,7 @@
 
 ## Others 
 
+- [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -621,7 +624,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [read_requests](https://github.com/wangshunping/read_requests) - python requests 源码阅读，学习更pythonic 的python代码写法。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React
+- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React - The original book to learn plain React
 
 ## PHP 
 
@@ -744,7 +747,7 @@
 
 ## Vue 
 
-- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client  , play fun ✅
+- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
