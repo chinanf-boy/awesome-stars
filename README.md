@@ -80,6 +80,7 @@
 
 ## Go 
 
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 - [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
@@ -174,6 +175,8 @@
 
 ## JavaScript 
 
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [tui.calendar](https://github.com/nhnent/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [brusher](https://github.com/kamranahmedse/brusher) - A lightweight library to create interactive backgrounds
 - [tokio](https://github.com/egoist/tokio) - Web scraping made simple.
 - [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
@@ -574,6 +577,7 @@
 
 ## Others 
 
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -696,6 +700,7 @@
 
 ## Shell 
 
+- [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
