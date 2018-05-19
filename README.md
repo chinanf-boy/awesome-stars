@@ -80,6 +80,7 @@
 
 ## Go 
 
+- [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 - [gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
@@ -175,6 +176,11 @@
 
 ## JavaScript 
 
+- [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
+- [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
+- [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
+- [big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [tui.calendar](https://github.com/nhnent/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [brusher](https://github.com/kamranahmedse/brusher) - A lightweight library to create interactive backgrounds
@@ -216,7 +222,7 @@
 - [vue-with-go-example](https://github.com/chinanf-boy/vue-with-go-example) - go 与 vue 合并服务
 - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-- [virtual-list](https://github.com/valdrinkoshi/virtual-list) - 
+- [virtual-scroller](https://github.com/valdrinkoshi/virtual-scroller) - 
 - [react-living-app](https://github.com/djirdehh/react-living-app) - 🌎 A react app that helps you compare the cost of living between cities worldwide
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
@@ -240,7 +246,7 @@
 - [RockMUD](https://github.com/MoreOutput/RockMUD) - Node Websocket MUD Server. Demo: https://rockmud.herokuapp.com/
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [jsonstore](https://github.com/bluzi/jsonstore) - :floppy_disk: :rocket: Store your data for free by sending simple HTTP requests
-- [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking
+- [react-input-mask](https://github.com/sanniassin/react-input-mask) - Input masking component for React. Made with attention to UX.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
@@ -451,7 +457,6 @@
 - [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-- [hnpwa-vue](https://github.com/chinanf-boy/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
 - [hnpwa-vue](https://github.com/anubhav7495/hnpwa-vue) - A Hacker News reader PWA built using Vue.js
 - [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
@@ -700,6 +705,7 @@
 
 ## Shell 
 
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
