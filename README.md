@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [Path-run](https://github.com/chinanf-boy/Path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
@@ -236,7 +237,7 @@
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [kubox](https://github.com/UpperCod/kubox) - If another bookstore more to control the state, but with interesting ideas 🥊
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
-- [tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob 🚀
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - 🚀 Super tiny and ~350% faster alternative to node-glob
 - [ava-explain](https://github.com/chinanf-boy/ava-explain) - explain : 「ava」未来的JavaScript测试运行器 | Futuristic JavaScript test runner
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
