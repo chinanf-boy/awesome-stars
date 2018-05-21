@@ -80,6 +80,7 @@
 
 ## Go 
 
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [fileb0x](https://github.com/UnnoTed/fileb0x) - a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
@@ -176,6 +177,10 @@
 
 ## JavaScript 
 
+- [split-lines](https://github.com/sindresorhus/split-lines) - Split lines into an array of lines
+- [aos](https://github.com/michalsnik/aos) - Animate on scroll library
+- [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
+- [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
 - [Path-run](https://github.com/chinanf-boy/Path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -321,7 +326,7 @@
 - [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site) - 
 - [current-weather](https://github.com/Cold-Coast/current-weather) - 
 - [github-image-diff](https://github.com/bokuweb/github-image-diff) - 🚧 [WIP] :octocat: A chrome extension to check github image difference.
-- [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
+- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [codesandbox-client](https://github.com/CompuIves/codesandbox-client) - An online code editor tailored for web application development 🏖️
