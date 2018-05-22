@@ -177,6 +177,9 @@
 
 ## JavaScript 
 
+- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
+- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications with NativeScript and Vue
+- [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
 - [split-lines](https://github.com/sindresorhus/split-lines) - Split lines into an array of lines
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
@@ -193,6 +196,7 @@
 - [tokio](https://github.com/egoist/tokio) - Web scraping made simple.
 - [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
 - [cpr](https://github.com/davglass/cpr) - Nodejs cp -R
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
@@ -234,7 +238,7 @@
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [dns.js.org](https://github.com/js-org/dns.js.org) - Providing nice and free domains for GitHub Pages since 2015
+- [js.org](https://github.com/js-org/js.org) - Providing nice and free domains for GitHub Pages since 2015
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
@@ -497,7 +501,7 @@
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [stale](https://github.com/probot/stale) - automatically close stale Issues and Pull Requests
+- [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [execa](https://github.com/sindresorhus/execa) - A better `child_process`
 - [listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
@@ -664,7 +668,6 @@
 - [em-keyboard](https://github.com/kennethreitz/em-keyboard) - the cli emoji keyboard™
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [delegator.py](https://github.com/kennethreitz/delegator.py) - Subprocesses for Humans 2.0.
-- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
@@ -718,6 +721,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [n](https://github.com/tj/n) - Node version management
 - [GCTT](https://github.com/studygolang/GCTT) - GCTT Go中文网翻译组。
+- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
@@ -736,6 +740,7 @@
 
 ## TypeScript 
 
+- [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
@@ -764,7 +769,6 @@
 
 ## Vue 
 
-- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
