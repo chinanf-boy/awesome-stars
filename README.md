@@ -177,6 +177,8 @@
 
 ## JavaScript 
 
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+- [crop](https://github.com/netplayer/crop) - Crop image in polygon shape  (HTML)
 - [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications with NativeScript and Vue
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
@@ -592,6 +594,7 @@
 
 ## Others 
 
+- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
@@ -769,6 +772,7 @@
 
 ## Vue 
 
+- [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
