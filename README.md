@@ -294,7 +294,6 @@
 - [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own content loader easily in React and even Vue.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
-- [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
@@ -532,7 +531,7 @@
 - [disqus-proxy-heroku](https://github.com/chinanf-boy/disqus-proxy-heroku) - heroku 版本 disqus-proxy   网站没部署 可以通过 npm run debug 查看
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
 - [preact-cli](https://github.com/developit/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
-- [next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
+- [next.js](https://github.com/zeit/next.js) - Next.js is a lightweight framework for static and server‑rendered applications.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [artDialog](https://github.com/aui/artDialog) - 经典的网页对话框组件
 - [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
@@ -594,6 +593,7 @@
 
 ## Others 
 
+- [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
@@ -717,7 +717,7 @@
 
 ## Shell 
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -747,6 +747,7 @@
 - [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
+- [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [typewiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
