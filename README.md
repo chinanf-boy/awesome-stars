@@ -57,7 +57,6 @@
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [cssnano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
-- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -177,6 +176,7 @@
 
 ## JavaScript 
 
+- [diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [crop](https://github.com/netplayer/crop) - Crop image in polygon shape  (HTML)
 - [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
@@ -198,7 +198,6 @@
 - [tokio](https://github.com/egoist/tokio) - Web scraping made simple.
 - [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
 - [cpr](https://github.com/davglass/cpr) - Nodejs cp -R
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
@@ -703,6 +702,7 @@
 
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
@@ -774,6 +774,7 @@
 ## Vue 
 
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
+- [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
