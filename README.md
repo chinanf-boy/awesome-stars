@@ -176,6 +176,8 @@
 
 ## JavaScript 
 
+- [weoptions](https://github.com/chinanf-boy/weoptions) - global worker options, with id store set/get, that it 我想要有个公共 options, 但可以通过不同的ID ✅
+- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 - [diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [crop](https://github.com/netplayer/crop) - Crop image in polygon shape  (HTML)
