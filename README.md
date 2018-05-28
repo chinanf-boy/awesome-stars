@@ -176,6 +176,16 @@
 
 ## JavaScript 
 
+- [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
+- [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+- [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
+- [badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
+- [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
+- [nock](https://github.com/node-nock/nock) - HTTP mocking and expectations library
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
+- [tmpin](https://github.com/sindresorhus/tmpin) - Add stdin support to any CLI app that accepts file input
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
+- [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [weoptions](https://github.com/chinanf-boy/weoptions) - global worker options, with id store set/get, that it 我想要有个公共 options, 但可以通过不同的ID ✅
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 - [diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
@@ -188,7 +198,7 @@
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
-- [Path-run](https://github.com/chinanf-boy/Path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置
+- [Path-run](https://github.com/chinanf-boy/Path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置 ✅
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
@@ -594,6 +604,7 @@
 
 ## Others 
 
+- [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -745,6 +756,8 @@
 
 ## TypeScript 
 
+- [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
+- [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
@@ -775,6 +788,7 @@
 
 ## Vue 
 
+- [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
 - [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
