@@ -176,6 +176,10 @@
 
 ## JavaScript 
 
+- [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
+- [react-360](https://github.com/facebook/react-360) - Create amazing 360 and VR content using React
+- [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors
+- [pkg-scripts](https://github.com/chinanf-boy/pkg-scripts) - just show package.json scripts, just like old npm run [Tab]
 - [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -646,7 +650,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated (2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前-js 后-go 接-python 听起来就好吃 👀
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
