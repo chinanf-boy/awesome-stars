@@ -17,6 +17,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [M](#m)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -176,6 +177,7 @@
 
 ## JavaScript 
 
+- [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [electronshoppinglist](https://github.com/bradtraversy/electronshoppinglist) - Shopping list desktop app built on electron
@@ -283,7 +285,7 @@
 - [recal](https://github.com/rubencodes/recal) - A minimal, accessible React/Preact calendar component using modern CSS.
 - [RockMUD](https://github.com/MoreOutput/RockMUD) - Node Websocket MUD Server. Demo: https://rockmud.herokuapp.com/
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
-- [jsonstore](https://github.com/bluzi/jsonstore) - :floppy_disk: :rocket: Store your data for free by sending simple HTTP requests
+- [jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Input masking component for React. Made with attention to UX.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -313,7 +315,7 @@
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules
 - [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
-- [translate-mds](https://github.com/chinanf-boy/translate-mds) - 3.0 啦 快点进来 - translate you md files 你想翻译的 的 md 文章 或 文件夹👀  | 😊已翻译列表 &gt;&gt;&gt;
+- [translate-mds](https://github.com/chinanf-boy/translate-mds) - translate you md files | -_- | 你想翻译的 的 md 文章 或 文件夹👀  | 😊已翻译列表 &gt;&gt;&gt;
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
@@ -434,7 +436,7 @@
 - [stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [node-growl](https://github.com/tj/node-growl) - growl unobtrusive notification system for nodejs
-- [dlv](https://github.com/developit/dlv) - Safe deep property access in 128 bytes. x = dlv(obj, 'a.b.x')
+- [dlv](https://github.com/developit/dlv) - Safe deep property access in 130 bytes. x = dlv(obj, 'a.b.x')
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
 - [cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
@@ -544,7 +546,7 @@
 - [jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-- [nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continous integration framework based on node.js and selenium webdriver
+- [nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
 - [weex-pack](https://github.com/weexteam/weex-pack) - Weex pack tool for Android、iOS and H5 plartform.
@@ -608,6 +610,10 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
+## M 
+
+- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+
 ## OCaml 
 
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -652,7 +658,6 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [explain-vuera](https://github.com/chinanf-boy/explain-vuera) - explain vuera  --project- about babel-plugins, react, vue,  有关react与vue 的共用
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
@@ -743,8 +748,11 @@
 
 ## Rust 
 
+- [book](https://github.com/rust-lang/book) - The Rust Programming Language
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [pax](https://github.com/nathan/pax) - The fastest JavaScript bundler in the galaxy.
 - [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
-- [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ pack up the wasm and publish it to npm!
+- [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Shell 
@@ -775,6 +783,8 @@
 
 ## TypeScript 
 
+- [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
+- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
 - [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
