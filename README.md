@@ -529,7 +529,6 @@
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
-- [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [execa](https://github.com/sindresorhus/execa) - A better `child_process`
 - [listr](https://github.com/SamVerschueren/listr) - Terminal task list
@@ -748,6 +747,7 @@
 
 ## Rust 
 
+- [gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [pax](https://github.com/nathan/pax) - The fastest JavaScript bundler in the galaxy.
@@ -809,6 +809,7 @@
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
+- [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
