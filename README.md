@@ -57,7 +57,7 @@
 - [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-- [cssnano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+- [cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
