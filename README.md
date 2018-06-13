@@ -177,6 +177,8 @@
 
 ## JavaScript 
 
+- [npm](https://github.com/npm/npm) - a package manager for javascript
+- [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
@@ -626,6 +628,7 @@
 
 ## Others 
 
+- [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
@@ -646,7 +649,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理，欢迎编辑~
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -668,7 +671,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - (June 2018) The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前-js 后-go 接-python 听起来就好吃 👀
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -747,6 +750,8 @@
 
 ## Rust 
 
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -783,6 +788,7 @@
 
 ## TypeScript 
 
+- [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
