@@ -177,6 +177,7 @@
 
 ## JavaScript 
 
+- [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
 - [npm](https://github.com/npm/npm) - a package manager for javascript
 - [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
@@ -200,7 +201,7 @@
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
-- [nock](https://github.com/node-nock/nock) - HTTP mocking and expectations library
+- [nock](https://github.com/nock/nock) - HTTP mocking and expectations library
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [tmpin](https://github.com/sindresorhus/tmpin) - Add stdin support to any CLI app that accepts file input
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
@@ -242,7 +243,7 @@
 - [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [renamer](https://github.com/75lb/renamer) - Batch rename files and folders, recursively
+- [renamer](https://github.com/75lb/renamer) - Rename files in bulk.
 - [histore](https://github.com/developit/histore) - 🏬 200b key-value store backed by navigation state
 - [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Vue.js tooltip directive. Easy to use, configure and style
@@ -513,7 +514,7 @@
 - [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
 - [react-pivottable](https://github.com/plotly/react-pivottable) - React-based drag'n'drop pivot table with Plotly.js charts
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps
 - [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
@@ -649,7 +650,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :calendar: 准备秋招学习笔记
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -682,7 +683,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [read_requests](https://github.com/wangshunping/read_requests) - python requests 源码阅读，学习更pythonic 的python代码写法。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React - The original book to learn plain React
+- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React: Your journey to master plain yet pragmatic React.js
 
 ## PHP 
 
