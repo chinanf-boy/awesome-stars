@@ -837,7 +837,7 @@
 - [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [deezer-vue](https://github.com/sh0cked/deezer-vue) - 
-- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components Framework for Vue.js 2
+- [vuesax](https://github.com/lusaxweb/vuesax) - Framework Components for Vue.js 2
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
