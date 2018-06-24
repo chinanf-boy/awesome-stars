@@ -147,6 +147,8 @@
 
 ## HTML 
 
+- [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+- [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust by Example 中文版(包含在线代码编辑器)
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics and all kinds of details.
@@ -161,7 +163,7 @@
 - [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
-- [core](https://github.com/stackblitz/core) - Online IDE powered by VS Code ⚡️
+- [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -177,6 +179,7 @@
 
 ## JavaScript 
 
+- [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
 - [npm](https://github.com/npm/npm) - a package manager for javascript
 - [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
@@ -198,6 +201,7 @@
 - [pkg-scripts](https://github.com/chinanf-boy/pkg-scripts) - just show package.json scripts, just like old npm run [Tab]  记得旧的 npm run [tab]吗
 - [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+- [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
@@ -271,7 +275,7 @@
 - [juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [js.org](https://github.com/js-org/js.org) - Providing nice and free domains for GitHub Pages since 2015
+- [js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
@@ -328,7 +332,7 @@
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [babel-upgrade](https://github.com/babel/babel-upgrade) - Tool for upgrading babel versions (v7): `npx babel-upgrade`
+- [babel-upgrade](https://github.com/babel/babel-upgrade) - A tool for upgrading Babel versions (to v7): `npx babel-upgrade`
 - [babel-loader](https://github.com/babel/babel-loader) - 📦 Webpack plugin for Babel
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 - [testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
@@ -336,7 +340,7 @@
 - [ink-autocomplete](https://github.com/maticzav/ink-autocomplete) - 🧠 An autocomplete component for Ink.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. More details on the site &gt;
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. https://remoteintech.github.io/remote-jobs/ More details on the site &gt;
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -361,7 +365,7 @@
 - [bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
 - [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site) - 
 - [current-weather](https://github.com/Cold-Coast/current-weather) - 
-- [github-image-diff](https://github.com/bokuweb/github-image-diff) - 🚧 [WIP] :octocat: A chrome extension to check github image difference.
+- [github-image-diff](https://github.com/bokuweb/github-image-diff) - 🚧 [Deprecated] :octocat: A chrome extension to check github image difference.
 - [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -715,7 +719,7 @@
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [background](https://github.com/kennethreitz/background) - Runs things in the background.
@@ -751,6 +755,7 @@
 
 ## Rust 
 
+- [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - A gentle Rust tutorial 中文翻译
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
@@ -758,7 +763,7 @@
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [pax](https://github.com/nathan/pax) - The fastest JavaScript bundler in the galaxy.
 - [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
-- [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Shell 
@@ -795,7 +800,7 @@
 - [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
 - [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
-- [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing
+- [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
@@ -825,7 +830,6 @@
 
 ## Vue 
 
-- [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
 - [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
