@@ -18,6 +18,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [M](#m)
+  - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -52,7 +53,6 @@
 
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
 - [npm](https://github.com/npm/npm) - a package manager for javascript
@@ -309,6 +310,7 @@
 - [Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
 - [react-graphql-github-vanilla](https://github.com/rwieruch/react-graphql-github-vanilla) - A React GraphQL example using GitHub's GraphQL API with vanilla JS
 - [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
@@ -322,7 +324,7 @@
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules
 - [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
-- [translate-mds](https://github.com/chinanf-boy/translate-mds) - translate you md files | -_- | 你想翻译的 的 md 文章 或 文件夹👀  | 😊已翻译列表 &gt;&gt;&gt;
+- [translate-mds](https://github.com/chinanf-boy/translate-mds) - translate you md files | -_- | 你想翻译的 的 md 文章 或 文件夹👀  | 😊测试列表 &gt;&gt;&gt;
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
@@ -620,6 +622,10 @@
 
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
+## Makefile 
+
+- [flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
+
 ## OCaml 
 
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -755,6 +761,7 @@
 
 ## Rust 
 
+- [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
 - [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - A gentle Rust tutorial 中文翻译
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
