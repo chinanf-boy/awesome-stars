@@ -633,12 +633,13 @@
 ## Objective-C 
 
 - [cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events
-- [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for MAC OS X
+- [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 
 ## Others 
 
+- [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
@@ -683,7 +684,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
-- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explain source en/zh 源码解释 分别是前-js 后-go 接-python 听起来就好吃 👀
+- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go 」 👀中文&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -762,7 +763,7 @@
 ## Rust 
 
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
-- [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - A gentle Rust tutorial 中文翻译
+- [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - translate: A gentle Rust tutorial 绅士介绍rust 中文 🇨🇳翻译
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
