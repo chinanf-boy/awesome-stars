@@ -17,7 +17,6 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [M](#m)
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -147,6 +146,8 @@
 
 ## HTML 
 
+- [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust by Example 中文版(包含在线代码编辑器)
 - [html](https://github.com/whatwg/html) - HTML Standard
@@ -179,6 +180,9 @@
 
 ## JavaScript 
 
+- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
+- [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
+- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
@@ -618,10 +622,6 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
-## M 
-
-- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
 ## Makefile 
 
 - [flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
@@ -639,12 +639,15 @@
 
 ## Others 
 
+- [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - transalte: react-beautiful-dnd 文档 🇨🇳翻译
+- [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
+- [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
-- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
+- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
@@ -672,6 +675,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [explain-vuera](https://github.com/chinanf-boy/explain-vuera) - explain vuera  --project- about babel-plugins, react, vue,  有关react与vue 的共用
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
+- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
