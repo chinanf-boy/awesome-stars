@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -171,7 +172,6 @@
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
-- [hyperchat](https://github.com/sdegutis/hyperchat) - Hyper-real-time chat
 
 ## Java 
 
@@ -182,7 +182,6 @@
 
 - [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
-- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
@@ -639,7 +638,8 @@
 
 ## Others 
 
-- [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - transalte: react-beautiful-dnd 文档 🇨🇳翻译
+- [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
+- [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
 - [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
@@ -766,8 +766,9 @@
 
 ## Rust 
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
-- [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - translate: A gentle Rust tutorial 绅士介绍rust 中文 🇨🇳翻译
+- [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - 🇨🇳翻译: A gentle Rust tutorial 绅士介绍rust 中文
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
@@ -806,6 +807,7 @@
 
 ## TypeScript 
 
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
