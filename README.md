@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
+  - [Elm](#elm)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -42,7 +43,6 @@
 
 ## C++ 
 
-- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -77,6 +77,10 @@
 ## Dart 
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+
+## Elm 
+
+- [diffuse](https://github.com/icidasset/diffuse) - {beta} A music player which connects to your cloud/distributed storage.
 
 ## Go 
 
@@ -441,7 +445,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (162 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (146 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -638,6 +642,7 @@
 
 ## Others 
 
+- [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️校对✅
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
@@ -762,7 +767,7 @@
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》公开课中文化项目。
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》视频公开课中文化项目。
 
 ## Rust 
 
@@ -808,6 +813,7 @@
 ## TypeScript 
 
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
+- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
