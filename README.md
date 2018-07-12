@@ -53,6 +53,7 @@
 
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [vue-cli-plugin-buefy](https://github.com/buefy/vue-cli-plugin-buefy) - Vue CLI 3.x plugin to add buefy to your Vue Project
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
@@ -184,12 +185,15 @@
 
 ## JavaScript 
 
+- [react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
 - [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
-- [npm](https://github.com/npm/npm) - a package manager for javascript
+- [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
@@ -213,7 +217,7 @@
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
-- [nock](https://github.com/nock/nock) - HTTP mocking and expectations library
+- [nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [tmpin](https://github.com/sindresorhus/tmpin) - Add stdin support to any CLI app that accepts file input
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
@@ -302,6 +306,7 @@
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Input masking component for React. Made with attention to UX.
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
@@ -317,7 +322,6 @@
 - [Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
 - [react-graphql-github-vanilla](https://github.com/rwieruch/react-graphql-github-vanilla) - A React GraphQL example using GitHub's GraphQL API with vanilla JS
 - [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
@@ -341,7 +345,7 @@
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [babel-upgrade](https://github.com/babel/babel-upgrade) - A tool for upgrading Babel versions (to v7): `npx babel-upgrade`
+- [babel-upgrade](https://github.com/babel/babel-upgrade) - ⬆️ A tool for upgrading Babel versions (to v7): `npx babel-upgrade`
 - [babel-loader](https://github.com/babel/babel-loader) - 📦 Webpack plugin for Babel
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 - [testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
@@ -642,6 +646,10 @@
 
 ## Others 
 
+- [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
+- [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
+- [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
+- [what-is-Bitcoin](https://github.com/chinanf-boy/what-is-Bitcoin) - explain: 比特币和区块链是什么{真的讲得好}, 这是个收藏夹📁
 - [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️校对✅
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
@@ -761,7 +769,6 @@
 ## Ruby 
 
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
