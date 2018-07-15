@@ -152,6 +152,7 @@
 
 ## HTML 
 
+- [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
@@ -185,6 +186,10 @@
 
 ## JavaScript 
 
+- [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
+- [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
+- [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - Cli for the node BundlePhobia Service
+- [ansi-colors](https://github.com/doowb/ansi-colors) - Collection of ansi colors and styles.
 - [react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
@@ -193,7 +198,6 @@
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
-- [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
@@ -289,7 +293,7 @@
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
+- [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
 - [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source web component of data table.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
@@ -449,7 +453,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (146 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (143 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -573,7 +577,7 @@
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook-boilerplate](https://github.com/sm-react/storybook-boilerplate) - 
-- [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ CLI for rapid Vue.js development
+- [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
 - [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [disqus-proxy-heroku](https://github.com/chinanf-boy/disqus-proxy-heroku) - heroku 版本 disqus-proxy   网站没部署 可以通过 npm run debug 查看
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
@@ -646,6 +650,7 @@
 
 ## Others 
 
+- [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
 - [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
 - [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
 - [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
@@ -657,6 +662,7 @@
 - [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
@@ -778,6 +784,7 @@
 
 ## Rust 
 
+- [robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
 - [gentle-intro](https://github.com/chinanf-boy/gentle-intro) - 🇨🇳翻译: A gentle Rust tutorial 绅士介绍rust 中文
@@ -819,6 +826,7 @@
 
 ## TypeScript 
 
+- [trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
 - [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
@@ -857,6 +865,7 @@
 
 ## Vue 
 
+- [vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
 - [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
