@@ -186,6 +186,11 @@
 
 ## JavaScript 
 
+- [Method-Draw](https://github.com/duopixel/Method-Draw) - Method Draw, the SVG Editor for Method of Action
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
+- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [react-flame-graph](https://github.com/bvaughn/react-flame-graph) - React component for visualizing profiling data
 - [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - Cli for the node BundlePhobia Service
@@ -650,6 +655,7 @@
 
 ## Others 
 
+- [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 🇨🇳翻译: ipfs/go-ipfs md文档 ❤️ 校对 🀄️
 - [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
 - [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
 - [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
@@ -707,7 +713,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
-- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go 」 👀中文&gt;
+- [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -800,6 +806,8 @@
 
 ## Shell 
 
+- [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
+- [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
