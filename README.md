@@ -186,6 +186,12 @@
 
 ## JavaScript 
 
+- [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
+- [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
+- [phenomenon](https://github.com/vaneenige/phenomenon) - 🦄 A fast 2kB low-level WebGL API. GPU based with shaders.
+- [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
+- [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences.
+- [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [Method-Draw](https://github.com/duopixel/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
@@ -655,6 +661,7 @@
 
 ## Others 
 
+- [guppy-docs-zh](https://github.com/chinanf-boy/guppy-docs-zh) - 🇨🇳翻译: guppy {docs } Reactjs 友好的应用和任务管理GUI,真得挺漂亮的 ❤️ 校对 ✅
 - [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 🇨🇳翻译: ipfs/go-ipfs md文档 ❤️ 校对 🀄️
 - [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
 - [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
