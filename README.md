@@ -85,6 +85,8 @@
 
 ## Go 
 
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -200,7 +202,7 @@
 - [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - Cli for the node BundlePhobia Service
-- [ansi-colors](https://github.com/doowb/ansi-colors) - Collection of ansi colors and styles.
+- [ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal.
 - [react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
@@ -222,7 +224,7 @@
 - [hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨
 - [minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
 - [node-modules-size](https://github.com/chinanf-boy/node-modules-size) - get all node_modules|you want dir size , ✅{ macOS| can use bash:'du -s' }
-- [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
 - [react-360](https://github.com/facebook/react-360) - Create amazing 360 and VR content using React
 - [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors
 - [pkg-scripts](https://github.com/chinanf-boy/pkg-scripts) - just show package.json scripts, just like old npm run [Tab]  记得旧的 npm run [tab]吗
@@ -654,6 +656,7 @@
 
 ## Objective-C 
 
+- [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events
 - [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -661,6 +664,8 @@
 
 ## Others 
 
+- [aws-with-v2ray](https://github.com/chinanf-boy/aws-with-v2ray) - use: aws with v2ray , 换了个东京节点, 快了许多 难道是因为东京比较热
+- [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
 - [guppy-docs-zh](https://github.com/chinanf-boy/guppy-docs-zh) - 🇨🇳翻译: guppy {docs } Reactjs 友好的应用和任务管理GUI,真得挺漂亮的 ❤️ 校对 ✅
 - [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 🇨🇳翻译: ipfs/go-ipfs md文档 ❤️ 校对 🀄️
 - [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
