@@ -64,7 +64,6 @@
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
-- [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -176,6 +175,7 @@
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
+- [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
@@ -188,6 +188,7 @@
 
 ## JavaScript 
 
+- [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
 - [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [phenomenon](https://github.com/vaneenige/phenomenon) - 🦄 A fast 2kB low-level WebGL API. GPU based with shaders.
@@ -664,6 +665,8 @@
 
 ## Others 
 
+- [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
+- [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
 - [aws-with-v2ray](https://github.com/chinanf-boy/aws-with-v2ray) - use: aws with v2ray , 换了个东京节点, 快了许多 难道是因为东京比较热
 - [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
 - [guppy-docs-zh](https://github.com/chinanf-boy/guppy-docs-zh) - 🇨🇳翻译: guppy {docs } Reactjs 友好的应用和任务管理GUI,真得挺漂亮的 ❤️ 校对 ✅
@@ -701,7 +704,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :calendar: 准备秋招学习笔记
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :memo: 准备秋招学习笔记
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -715,7 +718,7 @@
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+- [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 🇨🇦 & 🇫🇷)
 - [You-Dont-Know-JS](https://github.com/chinanf-boy/You-Dont-Know-JS) - 中文版 后缀.zh.md 就是 - 没有手动翻译 使用 translate-js
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
