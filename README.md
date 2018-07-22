@@ -71,6 +71,7 @@
 
 ## CoffeeScript 
 
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [hubot-slack](https://github.com/slackapi/hubot-slack) - Slack Developer Kit for Hubot
 
@@ -112,7 +113,7 @@
 - [mindoc](https://github.com/lifei6671/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -188,6 +189,8 @@
 
 ## JavaScript 
 
+- [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
 - [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
@@ -665,6 +668,7 @@
 
 ## Others 
 
+- [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
 - [aws-with-v2ray](https://github.com/chinanf-boy/aws-with-v2ray) - use: aws with v2ray , 换了个东京节点, 快了许多 难道是因为东京比较热
