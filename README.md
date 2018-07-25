@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -51,6 +52,7 @@
 
 ## CSS 
 
+- [TypeScript-Node-Starter](https://github.com/chinanf-boy/TypeScript-Node-Starter) - 🇨🇳翻译: 官方 TypeScript和Node的入门模板 ❤️校对 ✅
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -85,6 +87,7 @@
 
 ## Go 
 
+- [onsha_heisha-interpreter](https://github.com/hayajo/onsha_heisha-interpreter) - "Writing An Interpreter In Go"を元にインタプリタを作成する
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -123,7 +126,7 @@
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发进度80%)
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -189,6 +192,12 @@
 
 ## JavaScript 
 
+- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
+- [TypeScript-Vue-Starter](https://github.com/chinanf-boy/TypeScript-Vue-Starter) - 🇨🇳翻译: 官方 TypeScript和Vue 的 入门模板 ❤️校对 ✅
+- [fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
+- [badgen](https://github.com/amio/badgen) - Fast handcraft svg badge generator.
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
@@ -387,7 +396,7 @@
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
-- [didact](https://github.com/hexacta/didact) - A DIY guide to build your own React
+- [didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [angular-presentation](https://github.com/nycJSorg/angular-presentation) - Angular presentation library
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
@@ -668,6 +677,7 @@
 
 ## Others 
 
+- [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
@@ -759,7 +769,6 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过 MXNet / Gluon 来动手学习深度学习
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -853,6 +862,7 @@
 
 ## TypeScript 
 
+- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
 - [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
