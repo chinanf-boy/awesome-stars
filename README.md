@@ -48,10 +48,12 @@
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## CSS 
 
+- [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
+- [rust-ffi-omnibus](https://github.com/chinanf-boy/rust-ffi-omnibus) - 🇨🇳翻译: 「ffi」 将 Rust 代码 导出, 应用于 其他语言 的例子集合 ❤️校对 ✅
 - [TypeScript-Node-Starter](https://github.com/chinanf-boy/TypeScript-Node-Starter) - 🇨🇳翻译: 官方 TypeScript和Node的入门模板 ❤️校对 ✅
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
@@ -126,7 +128,7 @@
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发进度80%)
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -164,7 +166,7 @@
 - [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust by Example 中文版(包含在线代码编辑器)
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics and all kinds of details.
+- [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -192,6 +194,7 @@
 
 ## JavaScript 
 
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
 - [TypeScript-Vue-Starter](https://github.com/chinanf-boy/TypeScript-Vue-Starter) - 🇨🇳翻译: 官方 TypeScript和Vue 的 入门模板 ❤️校对 ✅
@@ -203,7 +206,7 @@
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
 - [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
-- [phenomenon](https://github.com/vaneenige/phenomenon) - 🦄 A fast 2kB low-level WebGL API. GPU based with shaders.
+- [phenomenon](https://github.com/vaneenige/phenomenon) - ✨A fast 2kB low-level WebGL API.
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 - [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences.
 - [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
@@ -272,7 +275,7 @@
 - [big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [tui.calendar](https://github.com/nhnent/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [brusher](https://github.com/kamranahmedse/brusher) - A lightweight library to create interactive backgrounds
+- [brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [tokio](https://github.com/egoist/tokio) - Web scraping made simple.
 - [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
@@ -417,7 +420,6 @@
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [vuep](https://github.com/QingWei-Li/vuep) - 🎡 A component for rendering Vue components with live editor and preview.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
-- [bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appsecret, 不借助其他网站
 - [gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
 - [react-snap-example](https://github.com/badsyntax/react-snap-example) - Example project for react-snap
 - [airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
@@ -741,7 +743,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (June 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (July 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -862,6 +864,8 @@
 
 ## TypeScript 
 
+- [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
+- [TypeScript-React-Starter](https://github.com/chinanf-boy/TypeScript-React-Starter) - 🇨🇳翻译: 官方 TypeScript和React的入门模板 ❤️校对 ✅
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
@@ -879,6 +883,7 @@
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [typewiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
+- [bilitwin](https://github.com/liqi0816/bilitwin) - bilibili merged flv+mp4+ass+enhance / 哔哩哔哩: 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强, 原生appsecret, 不借助其他网站
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss 📦👌
 - [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
