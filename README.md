@@ -43,7 +43,6 @@
 
 ## C++ 
 
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -52,6 +51,7 @@
 
 ## CSS 
 
+- [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [rust-ffi-omnibus](https://github.com/chinanf-boy/rust-ffi-omnibus) - 🇨🇳翻译: 「ffi」 将 Rust 代码 导出, 应用于 其他语言 的例子集合 ❤️校对 ✅
 - [TypeScript-Node-Starter](https://github.com/chinanf-boy/TypeScript-Node-Starter) - 🇨🇳翻译: 官方 TypeScript和Node的入门模板 ❤️校对 ✅
@@ -89,6 +89,8 @@
 
 ## Go 
 
+- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [onsha_heisha-interpreter](https://github.com/hayajo/onsha_heisha-interpreter) - "Writing An Interpreter In Go"を元にインタプリタを作成する
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -128,7 +130,7 @@
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -194,6 +196,8 @@
 
 ## JavaScript 
 
+- [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+- [woye](https://github.com/alxpez/woye) - 📇 Insert plain-text, get information
 - [keep-mac-light](https://github.com/chinanf-boy/keep-mac-light) - keep mac screen light  保持Mac 不进入待机
 - [brightness](https://github.com/kevva/brightness) - Change screen brightness
 - [exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
@@ -230,7 +234,7 @@
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
-- [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers.
+- [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
@@ -519,7 +523,7 @@
 - [import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [size-limit](https://github.com/ai/size-limit) - Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.
 - [nanoclone](https://github.com/Kelin2025/nanoclone) - Tiny util to deep clone JavaScript objects
-- [gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing fast static site generator for React
+- [gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing fast site generator for React
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
@@ -682,6 +686,7 @@
 
 ## Others 
 
+- [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
@@ -774,6 +779,7 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过 MXNet / Gluon 来动手学习深度学习
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
