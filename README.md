@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Elm](#elm)
@@ -72,6 +73,10 @@
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
+
+## Clojure 
+
+- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## CoffeeScript 
 
@@ -196,6 +201,14 @@
 
 ## JavaScript 
 
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
+- [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.
+- [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
+- [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉
+- [taskbook](https://github.com/klauscfhq/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
+- [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - A JavaScript Chart Library
+- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [woye](https://github.com/alxpez/woye) - 📇 Insert plain-text, get information
 - [keep-mac-light](https://github.com/chinanf-boy/keep-mac-light) - keep mac screen light  保持Mac 不进入待机
@@ -213,7 +226,7 @@
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
 - [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
-- [phenomenon](https://github.com/vaneenige/phenomenon) - ✨A fast 2kB low-level WebGL API.
+- [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 - [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences.
 - [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
@@ -686,6 +699,13 @@
 
 ## Others 
 
+- [react-research](https://github.com/hydrateio/react-research) - React design system and UI builder research for Hydrate.
+- [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [awesome-puppeteer-zh](https://github.com/chinanf-boy/awesome-puppeteer-zh) - 🇨🇳翻译: awesome-puppeteer Puppeteer 资源的精选列表 ❤️ 校对 ✅
+- [ffmpeg-concat-zh](https://github.com/chinanf-boy/ffmpeg-concat-zh) - 🇨🇳翻译: ffmpeg-concat  拼接 一组视频.,通过使用 ffmpeg和 性感的 OpenGL 过渡 (动画效果) ❤️ 校对 ✅
+- [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+- [terminalizer-zh](https://github.com/chinanf-boy/terminalizer-zh) - 🇨🇳翻译: terminalizer 🦄 录制 你的 terminal 和 生成 gif 文件 , {找了好久} ❤️ 校对 ✅
+- [taskbook-zh](https://github.com/chinanf-boy/taskbook-zh) - 🇨🇳翻译: taskbook 📓命令行的任务，板块 和 笔记 ❤️ 校对 ✅
 - [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
@@ -728,7 +748,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :memo: 准备秋招学习笔记
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :bulb: Basic Knowledge of Technical Interview
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -766,10 +786,12 @@
 
 ## PHP 
 
+- [svgdotjs.github.io](https://github.com/svgdotjs/svgdotjs.github.io) - Documentation and website for SVG.js
 - [the-majesty-of-vuejs-2](https://github.com/hootlex/the-majesty-of-vuejs-2) - Demo APIs and homework solutions for "The Majesty of Vue.js 2"
 
 ## Python 
 
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
 - [cdto](https://github.com/ealeksandrov/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
 - [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™.
@@ -829,6 +851,7 @@
 
 ## Rust 
 
+- [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rust](https://github.com/rust-lang/rust) - A safe, concurrent, practical language.
@@ -878,7 +901,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
-- [deno](https://github.com/ry/deno) - A secure TypeScript runtime on V8
+- [deno](https://github.com/denoland/deno) - A secure TypeScript runtime on V8
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
