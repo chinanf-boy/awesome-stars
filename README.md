@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -90,10 +91,13 @@
 
 ## Elm 
 
-- [diffuse](https://github.com/icidasset/diffuse) - {beta} A music player which connects to your cloud/distributed storage.
+- [diffuse](https://github.com/icidasset/diffuse) - A music player which connects to your cloud/distributed storage.
 
 ## Go 
 
+- [gx](https://github.com/whyrusleeping/gx) - A package management tool
+- [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Go 夜读 &gt; Night Reading Go - Go source reading and offline technical discussion every Thursday night.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [onsha_heisha-interpreter](https://github.com/hayajo/onsha_heisha-interpreter) - "Writing An Interpreter In Go"を元にインタプリタを作成する
@@ -201,13 +205,19 @@
 
 ## JavaScript 
 
+- [javascript-algorithms-zh](https://github.com/chinanf-boy/javascript-algorithms-zh) - 🇨🇳翻译: JavaScript-algorithms 主要保存repo ❤ 校对 ✔
+- [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
+- [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
+- [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [apple-music-js](https://github.com/tvillarete/apple-music-js) - A music streaming service created from the ground up using ReactJS & Redux
+- [badgen-service](https://github.com/amio/badgen-service) - Fast svg badge generating service
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.
 - [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉
 - [taskbook](https://github.com/klauscfhq/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
 - [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - A JavaScript Chart Library
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive and Modern SVG Charts
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [woye](https://github.com/alxpez/woye) - 📇 Insert plain-text, get information
@@ -406,7 +416,7 @@
 - [ink-autocomplete](https://github.com/maticzav/ink-autocomplete) - 🧠 An autocomplete component for Ink.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech. This is the list. https://remoteintech.github.io/remote-jobs/ More details on the site &gt;
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -501,7 +511,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (143 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 - [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -510,7 +520,6 @@
 - [node-growl](https://github.com/tj/node-growl) - growl unobtrusive notification system for nodejs
 - [dlv](https://github.com/developit/dlv) - Safe deep property access in 130 bytes. x = dlv(obj, 'a.b.x')
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
-- [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
 - [cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -555,7 +564,7 @@
 - [Vue_Typescript_Todolist](https://github.com/coding-blocks-archives/Vue_Typescript_Todolist) - 
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - :white_circle: SVG component to create placeholder loading, like Facebook cards loading.
 - [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
-- [scrollreveal](https://github.com/jlmakes/scrollreveal) - Easy scroll animations for web and mobile browsers.
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
 - [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
@@ -699,6 +708,9 @@
 
 ## Others 
 
+- [awesome-electron-zh](https://github.com/chinanf-boy/awesome-electron-zh) - 🇨🇳翻译: &lt; awesome-electron &gt; 噢 electron 的 资源列表耶 ❤ 校对 ✔
+- [gx-zh](https://github.com/chinanf-boy/gx-zh) - 🇨🇳翻译: &lt; GX &gt; 通用包管理器-ipfs 😄 校对 ✔
+- [awesome-hacking](https://github.com/chinanf-boy/awesome-hacking) - 🇨🇳翻译: Hacking 教程, 工具🔧 and 资源 👍精选列表  ❤️校对 ✅
 - [react-research](https://github.com/hydrateio/react-research) - React design system and UI builder research for Hydrate.
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [awesome-puppeteer-zh](https://github.com/chinanf-boy/awesome-puppeteer-zh) - 🇨🇳翻译: awesome-puppeteer Puppeteer 资源的精选列表 ❤️ 校对 ✅
@@ -720,7 +732,7 @@
 - [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
 - [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
 - [what-is-Bitcoin](https://github.com/chinanf-boy/what-is-Bitcoin) - explain: 比特币和区块链是什么{真的讲得好}, 这是个收藏夹📁
-- [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️校对✅
+- [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️更新中
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
@@ -748,7 +760,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :bulb: Basic Knowledge of Technical Interview
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :bulb: 准备秋招学习笔记
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
@@ -771,7 +783,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (July 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (August 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -801,7 +813,6 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过 MXNet / Gluon 来动手学习深度学习
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -907,7 +918,7 @@
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
 - [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.
-- [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
@@ -923,6 +934,7 @@
 - [cherow](https://github.com/cherow/cherow) - Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability
 - [stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
+- [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
