@@ -170,6 +170,7 @@
 
 ## HTML 
 
+- [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -205,6 +206,7 @@
 
 ## JavaScript 
 
+- [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness.
 - [javascript-algorithms-zh](https://github.com/chinanf-boy/javascript-algorithms-zh) - 🇨🇳翻译: JavaScript-algorithms 主要保存repo ❤ 校对 ✔
 - [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
@@ -708,6 +710,7 @@
 
 ## Others 
 
+- [react-loadable-zh](https://github.com/chinanf-boy/react-loadable-zh) - 🇨🇳翻译: react-loadable 组件的动态导入与加载 的 高级组件 ❤ 校对 ✔
 - [awesome-electron-zh](https://github.com/chinanf-boy/awesome-electron-zh) - 🇨🇳翻译: &lt; awesome-electron &gt; 噢 electron 的 资源列表耶 ❤ 校对 ✔
 - [gx-zh](https://github.com/chinanf-boy/gx-zh) - 🇨🇳翻译: &lt; GX &gt; 通用包管理器-ipfs 😄 校对 ✔
 - [awesome-hacking](https://github.com/chinanf-boy/awesome-hacking) - 🇨🇳翻译: Hacking 教程, 工具🔧 and 资源 👍精选列表  ❤️校对 ✅
