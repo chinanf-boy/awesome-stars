@@ -206,6 +206,8 @@
 
 ## JavaScript 
 
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness.
 - [javascript-algorithms-zh](https://github.com/chinanf-boy/javascript-algorithms-zh) - 🇨🇳翻译: JavaScript-algorithms 主要保存repo ❤ 校对 ✔
 - [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
@@ -236,11 +238,12 @@
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
+- [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
-- [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences.
+- [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences
 - [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [Method-Draw](https://github.com/duopixel/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -253,6 +256,7 @@
 - [ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal.
 - [react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
 - [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
@@ -551,7 +555,7 @@
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript framework for building web applications.
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript micro-framework for building web applications
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -724,7 +728,6 @@
 - [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
-- [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
 - [aws-with-v2ray](https://github.com/chinanf-boy/aws-with-v2ray) - use: aws with v2ray , 换了个东京节点, 快了许多 难道是因为东京比较热
 - [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
@@ -733,9 +736,8 @@
 - [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
 - [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
 - [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
-- [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
 - [what-is-Bitcoin](https://github.com/chinanf-boy/what-is-Bitcoin) - explain: 比特币和区块链是什么{真的讲得好}, 这是个收藏夹📁
-- [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️更新中
+- [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️更新✔
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
@@ -806,6 +808,7 @@
 
 ## Python 
 
+- [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
 - [cdto](https://github.com/ealeksandrov/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
