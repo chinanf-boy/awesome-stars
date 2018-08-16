@@ -208,7 +208,7 @@
 
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness.
+- [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
 - [javascript-algorithms-zh](https://github.com/chinanf-boy/javascript-algorithms-zh) - 🇨🇳翻译: JavaScript-algorithms 主要保存repo ❤ 校对 ✔
 - [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
@@ -345,7 +345,7 @@
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
-- [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template) - a vue2.0 minimal admin template http://panjiachen.github.io/vueAdmin-template
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template http://panjiachen.github.io/vue-admin-template
 - [vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [vue-with-go-example](https://github.com/chinanf-boy/vue-with-go-example) - go 与 vue 合并服务
 - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -765,7 +765,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :bulb: 准备秋招学习笔记
+- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
