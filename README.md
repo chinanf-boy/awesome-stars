@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [night-reading-go](https://github.com/developer-learning/night-reading-go) - Go 夜读 &gt; Night Reading Go - Go source reading and offline technical discussion every Thursday night.
@@ -206,6 +207,8 @@
 
 ## JavaScript 
 
+- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
+- [doc-templite](https://github.com/chinanf-boy/doc-templite) - code: &lt; doc-templite &gt; multi-file with templite tool ❤️ is work ✅
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
@@ -765,7 +768,7 @@
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) - :books: 技术面试需要掌握的基础知识整理
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Computer Science Learning Notes
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
