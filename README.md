@@ -207,6 +207,8 @@
 
 ## JavaScript 
 
+- [two-log](https://github.com/chinanf-boy/two-log) - ora and winston , just two logger, if debug 我只需要两种信息输出方式✅
+- [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Converts HTML pages into React components
 - [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
 - [doc-templite](https://github.com/chinanf-boy/doc-templite) - code: &lt; doc-templite &gt; multi-file with templite tool ❤️ is work ✅
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -717,6 +719,7 @@
 
 ## Others 
 
+- [doc-templite-explain](https://github.com/chinanf-boy/doc-templite-explain) - explian: doc-templite 为多个md文件准备的模版工具 ✅
 - [react-loadable-zh](https://github.com/chinanf-boy/react-loadable-zh) - 🇨🇳翻译: react-loadable 组件的动态导入与加载 的 高级组件 ❤ 校对 ✔
 - [awesome-electron-zh](https://github.com/chinanf-boy/awesome-electron-zh) - 🇨🇳翻译: &lt; awesome-electron &gt; 噢 electron 的 资源列表耶 ❤ 校对 ✔
 - [gx-zh](https://github.com/chinanf-boy/gx-zh) - 🇨🇳翻译: &lt; GX &gt; 通用包管理器-ipfs 😄 校对 ✔
@@ -732,7 +735,6 @@
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
-- [aws-with-v2ray](https://github.com/chinanf-boy/aws-with-v2ray) - use: aws with v2ray , 换了个东京节点, 快了许多 难道是因为东京比较热
 - [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
 - [guppy-docs-zh](https://github.com/chinanf-boy/guppy-docs-zh) - 🇨🇳翻译: guppy {docs } Reactjs 友好的应用和任务管理GUI,真得挺漂亮的 ❤️ 校对 ✅
 - [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 🇨🇳翻译: ipfs/go-ipfs md文档 ❤️ 校对 🀄️
