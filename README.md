@@ -207,6 +207,7 @@
 
 ## JavaScript 
 
+- [two-log-min](https://github.com/chinanf-boy/two-log-min) - code: &lt;two-log-min&gt; log with ora and debug ❤️ is work ✅
 - [two-log](https://github.com/chinanf-boy/two-log) - ora and winston , just two logger, if debug 我只需要两种信息输出方式✅
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Converts HTML pages into React components
 - [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
