@@ -919,6 +919,7 @@
 
 ## TypeScript 
 
+- [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dev dependency to your project
 - [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [TypeScript-React-Starter](https://github.com/chinanf-boy/TypeScript-React-Starter) - 🇨🇳翻译: 官方 TypeScript和React的入门模板 ❤️校对 ✅
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
