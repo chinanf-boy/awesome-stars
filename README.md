@@ -249,7 +249,7 @@
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
-- [turbocolor](https://github.com/jorgebucaran/turbocolor) - Node.js library for colorizing text using ANSI escape sequences
+- [colorette](https://github.com/jorgebucaran/colorette) - Node.js library for colorizing text using ANSI escape sequences
 - [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [Method-Draw](https://github.com/duopixel/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -266,7 +266,7 @@
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
 - [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
@@ -733,7 +733,7 @@
 - [terminalizer-zh](https://github.com/chinanf-boy/terminalizer-zh) - 🇨🇳翻译: terminalizer 🦄 录制 你的 terminal 和 生成 gif 文件 , {找了好久} ❤️ 校对 ✅
 - [taskbook-zh](https://github.com/chinanf-boy/taskbook-zh) - 🇨🇳翻译: taskbook 📓命令行的任务，板块 和 笔记 ❤️ 校对 ✅
 - [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
-- [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [robinson-zh](https://github.com/chinanf-boy/robinson-zh) - 🇨🇳翻译+explain: 使用 rsut 构建自己的浏览器渲染引擎 ❤️ 校对 ✅
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
 - [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
@@ -919,7 +919,7 @@
 
 ## TypeScript 
 
-- [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dev dependency to your project
+- [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [TypeScript-React-Starter](https://github.com/chinanf-boy/TypeScript-React-Starter) - 🇨🇳翻译: 官方 TypeScript和React的入门模板 ❤️校对 ✅
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
