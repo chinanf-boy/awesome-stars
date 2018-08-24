@@ -309,7 +309,7 @@
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
-- [Path-run](https://github.com/chinanf-boy/Path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置 ✅
+- [path-run](https://github.com/chinanf-boy/path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置 ✅
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
@@ -347,7 +347,7 @@
 - [create-proton-app](https://github.com/albe-rosado/create-proton-app) - No Configuration Starter Template for Proton Native Apps
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [NodePath](https://github.com/chinanf-boy/NodePath) - use Nodejs describe many modules nodepath in server 描述 js 模块路径 重构了文档没更新
+- [nodepaths](https://github.com/chinanf-boy/nodepaths) - use Nodejs describe many modules nodepath in server 描述 js 模块路径 重构了文档没更新
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
@@ -720,6 +720,8 @@
 
 ## Others 
 
+- [debug-zh](https://github.com/chinanf-boy/debug-zh) - 🇨🇳翻译: &lt;debug&gt; 微小的调试器, web与node ❤️ 校对 ✅
+- [commander.js-zh](https://github.com/chinanf-boy/commander.js-zh) - 🇨🇳翻译: &lt;commander.js&gt; 让node命令行接口, 简单操作 ❤️ 校对 ✅
 - [doc-templite-explain](https://github.com/chinanf-boy/doc-templite-explain) - explian: doc-templite 为多个md文件准备的模版工具 ✅
 - [react-loadable-zh](https://github.com/chinanf-boy/react-loadable-zh) - 🇨🇳翻译: react-loadable 组件的动态导入与加载 的 高级组件 ❤ 校对 ✔
 - [awesome-electron-zh](https://github.com/chinanf-boy/awesome-electron-zh) - 🇨🇳翻译: &lt; awesome-electron &gt; 噢 electron 的 资源列表耶 ❤ 校对 ✔
