@@ -207,6 +207,10 @@
 
 ## JavaScript 
 
+- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
+- [vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
+- [packagephobia-cli](https://github.com/chinanf-boy/packagephobia-cli) - code: &lt;packagephobia-cli&gt; know the pkg size ✅
+- [ReactStateMuseum](https://github.com/GantMan/ReactStateMuseum) - A whirlwind tour of React state management systems by example
 - [two-log-min](https://github.com/chinanf-boy/two-log-min) - code: &lt;two-log-min&gt; log with ora and debug ❤️ is work ✅
 - [two-log](https://github.com/chinanf-boy/two-log) - ora and winston , just two logger, if debug 我只需要两种信息输出方式✅
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Converts HTML pages into React components
@@ -312,7 +316,6 @@
 - [path-run](https://github.com/chinanf-boy/path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置 ✅
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
-- [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -351,7 +354,7 @@
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way  to validate data in Javascript.
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template http://panjiachen.github.io/vue-admin-template
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [vue-with-go-example](https://github.com/chinanf-boy/vue-with-go-example) - go 与 vue 合并服务
 - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -546,7 +549,6 @@
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [knw](https://github.com/ryanwiemer/knw) - KNW Photography - Digital portfolio for San Francisco Bay Area photographer Kirsten Wiemer
 - [api-platform](https://github.com/api-platform/api-platform) - Build hypermedia and GraphQL APIs in minutes, generate Progressive Web Apps to consume them.
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [nuxt7](https://github.com/nuxt-community/nuxt7) - 📱 Full Featured iOS & Android PWA Apps with Nuxt.js and Framework7
@@ -659,7 +661,7 @@
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [ava](https://github.com/avajs/ava) - :rocket: Futuristic JavaScript test runner
+- [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser
@@ -720,6 +722,8 @@
 
 ## Others 
 
+- [fd-zh](https://github.com/chinanf-boy/fd-zh) - 🇨🇳翻译: &lt;fd&gt; 一种简单,快速和用户友好的 &gt;find&lt; 替代方案 ❤️ 校对 ✅
+- [magic-piano](https://github.com/SaraVieira/magic-piano) - Magic Piano - Play piano with the world
 - [debug-zh](https://github.com/chinanf-boy/debug-zh) - 🇨🇳翻译: &lt;debug&gt; 微小的调试器, web与node ❤️ 校对 ✅
 - [commander.js-zh](https://github.com/chinanf-boy/commander.js-zh) - 🇨🇳翻译: &lt;commander.js&gt; 让node命令行接口, 简单操作 ❤️ 校对 ✅
 - [doc-templite-explain](https://github.com/chinanf-boy/doc-templite-explain) - explian: doc-templite 为多个md文件准备的模版工具 ✅
@@ -826,7 +830,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
-- [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 通过 MXNet / Gluon 来动手学习深度学习
+- [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 《动手学深度学习》
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -876,6 +880,7 @@
 
 ## Rust 
 
+- [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -934,6 +939,7 @@
 - [mockoon](https://github.com/255kb/mockoon) - Mock REST APIs in seconds.
 - [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [magenta-js](https://github.com/tensorflow/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [tinymce](https://github.com/tinymce/tinymce) - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
