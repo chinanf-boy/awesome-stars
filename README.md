@@ -13,6 +13,7 @@
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Elm](#elm)
+  - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -40,11 +41,11 @@
 
 ## C# # 
 
+- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## C++ 
 
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -53,6 +54,7 @@
 
 ## CSS 
 
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [rust-ffi-omnibus](https://github.com/chinanf-boy/rust-ffi-omnibus) - 🇨🇳翻译: 「ffi」 将 Rust 代码 导出, 应用于 其他语言 的例子集合 ❤️校对 ✅
@@ -92,6 +94,10 @@
 ## Elm 
 
 - [diffuse](https://github.com/icidasset/diffuse) - A music player which connects to your cloud/distributed storage.
+
+## Gnuplot 
+
+- [tokei-zh](https://github.com/chinanf-boy/tokei-zh) - 🇨🇳翻译: &lt;tokei&gt; 代码信息的统计程序 ❤️ 校对 ✅
 
 ## Go 
 
@@ -162,7 +168,6 @@
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Next-generation Shadowsocks in Go
 - [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [go-best-practice](https://github.com/astaxie/go-best-practice) - Trying to complete over 100 projects in various categories in golang.
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [go](https://github.com/golang/go) - The Go programming language
@@ -207,6 +212,13 @@
 
 ## JavaScript 
 
+- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
+- [cli](https://github.com/npm/cli) - a package manager for JavaScript
+- [publish-diff](https://github.com/FormidableLabs/publish-diff) - Preview npm publish changes.
+- [match-file-contents](https://github.com/chinanf-boy/match-file-contents) - code: &lt;match-file-contents&gt; rewrite match contents ✅
+- [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+- [dev-time-cli](https://github.com/SamVerschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
 - [packagephobia-cli](https://github.com/chinanf-boy/packagephobia-cli) - code: &lt;packagephobia-cli&gt; know the pkg size ✅
@@ -272,7 +284,7 @@
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
-- [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: simple bundle 捆绑器 示例 「翻译」
+- [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: &lt;minipack&gt; simple bundle 捆绑器 示例 「翻译」❤️ 校对 ✅
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [electron-forge-templates](https://github.com/electron-userland/electron-forge-templates) - Templates bundled with Electron Forge to create Electron apps using popular JavaScript frameworks
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - Build Vuejs from scratch to learn how it works internally
@@ -440,7 +452,7 @@
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
-- [poi](https://github.com/egoist/poi) - :zap: A zero-config bundler for JavaScript applications.
+- [poi](https://github.com/upash/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
@@ -563,13 +575,13 @@
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 kB JavaScript micro-framework for building web applications
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - 1 kB JavaScript micro-framework for building declarative web applications
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
-- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php
+- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R
 - [react](https://github.com/discountry/react) - React docs in Chinese | React 中文文档翻译
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [pwa](https://github.com/lakshyaranganath/pwa) - An opinionated progressive web app boilerplate
@@ -722,6 +734,12 @@
 
 ## Others 
 
+- [deno-zh](https://github.com/chinanf-boy/deno-zh) - 🇨🇳翻译: &lt;deno&gt; 基于V8构建的安全TypeScript运行时 ❤ 校对 √
+- [didact-explain](https://github.com/chinanf-boy/didact-explain) - 🇨🇳翻译: 「 Didact 」 DIY React  ❤ 更新 ✔
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+- [lerna-zh](https://github.com/chinanf-boy/lerna-zh) - 🇨🇳翻译: &lt;lerna&gt; 用于 管理 拥有多packages的 js 项目 ❤️ 校对 ✅
+- [remark-zh](https://github.com/chinanf-boy/remark-zh) - 🇨🇳翻译: &lt;remark&gt; 用于markdown的插件生态系统 ❤️ 校对 ✅
+- [hyperfine-zh](https://github.com/chinanf-boy/hyperfine-zh) - 🇨🇳翻译: &lt;hyperfine&gt; 命令行基准测试工具 ❤️ 校对 ✅
 - [fd-zh](https://github.com/chinanf-boy/fd-zh) - 🇨🇳翻译: &lt;fd&gt; 一种简单,快速和用户友好的 &gt;find&lt; 替代方案 ❤️ 校对 ✅
 - [magic-piano](https://github.com/SaraVieira/magic-piano) - Magic Piano - Play piano with the world
 - [debug-zh](https://github.com/chinanf-boy/debug-zh) - 🇨🇳翻译: &lt;debug&gt; 微小的调试器, web与node ❤️ 校对 ✅
@@ -733,7 +751,7 @@
 - [awesome-hacking](https://github.com/chinanf-boy/awesome-hacking) - 🇨🇳翻译: Hacking 教程, 工具🔧 and 资源 👍精选列表  ❤️校对 ✅
 - [react-research](https://github.com/hydrateio/react-research) - React design system and UI builder research for Hydrate.
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
-- [awesome-puppeteer-zh](https://github.com/chinanf-boy/awesome-puppeteer-zh) - 🇨🇳翻译: awesome-puppeteer Puppeteer 资源的精选列表 ❤️ 校对 ✅
+- [awesome-puppeteer-zh](https://github.com/chinanf-boy/awesome-puppeteer-zh) - 🇨🇳翻译: &lt;awesome-puppeteer&gt; Puppeteer 资源的精选列表 ❤️ 校对 ✅
 - [ffmpeg-concat-zh](https://github.com/chinanf-boy/ffmpeg-concat-zh) - 🇨🇳翻译: ffmpeg-concat  拼接 一组视频.,通过使用 ffmpeg和 性感的 OpenGL 过渡 (动画效果) ❤️ 校对 ✅
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [terminalizer-zh](https://github.com/chinanf-boy/terminalizer-zh) - 🇨🇳翻译: terminalizer 🦄 录制 你的 terminal 和 生成 gif 文件 , {找了好久} ❤️ 校对 ✅
@@ -752,14 +770,13 @@
 - [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️更新✔
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
-- [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰
+- [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔
 - [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
-- [didact-explain](https://github.com/chinanf-boy/didact-explain) - explain: 「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧-&gt;翻译
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
@@ -800,7 +817,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (August 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (September 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -831,6 +848,7 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 《动手学深度学习》
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -876,10 +894,11 @@
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - 《计算机程序的构造和解释》视频公开课中文化项目。
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 ## Rust 
 
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
@@ -900,7 +919,7 @@
 
 - [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
