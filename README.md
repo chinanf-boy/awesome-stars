@@ -400,7 +400,7 @@
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [regexparam](https://github.com/lukeed/regexparam) - A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️
-- [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React lifecycle methods diagram.
+- [react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
@@ -708,6 +708,8 @@
 
 ## Julia 
 
+- [JuliaZH.jl](https://github.com/JuliaCN/JuliaZH.jl) - Julia语言的中文文档(支持REPL)
+- [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) - A documentation generator for Julia.
 - [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
 
 ## Jupyter Notebook 
@@ -1003,7 +1005,7 @@
 - [page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [deezer-vue](https://github.com/sh0cked/deezer-vue) - 
-- [vuesax](https://github.com/lusaxweb/vuesax) - Framework Components for Vue.js 2
+- [vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [pomidorus](https://github.com/tatyshev/pomidorus) - 🍅 Pomodoro time tracker build using Vue and D3
 - [v-oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued. 🔎
