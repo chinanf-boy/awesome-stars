@@ -46,6 +46,7 @@
 
 ## C++ 
 
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
@@ -101,6 +102,8 @@
 
 ## Go 
 
+- [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
+- [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
@@ -213,7 +216,7 @@
 ## JavaScript 
 
 - [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
-- [cli](https://github.com/npm/cli) - a package manager for JavaScript
+- [cli](https://github.com/npm/cli) - a package manager for JavaScript, report bugs and get support at:
 - [publish-diff](https://github.com/FormidableLabs/publish-diff) - Preview npm publish changes.
 - [match-file-contents](https://github.com/chinanf-boy/match-file-contents) - code: &lt;match-file-contents&gt; rewrite match contents ✅
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
@@ -850,7 +853,6 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [twitter-scraper](https://github.com/kennethreitz/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh) - 《动手学深度学习》
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [howtopython.org](https://github.com/kennethreitz/howtopython.org) - A (book, website) that decribes how to Python, from scratch.
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
@@ -861,7 +863,7 @@
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [delegator.py](https://github.com/kennethreitz/delegator.py) - Subprocesses for Humans 2.0.
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast
 - [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [actinide](https://github.com/ojacobson/actinide) - A secure, embeddable Lisp implementation for Python applications
