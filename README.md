@@ -215,6 +215,8 @@
 
 ## JavaScript 
 
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
 - [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 - [cli](https://github.com/npm/cli) - a package manager for JavaScript, report bugs and get support at:
 - [publish-diff](https://github.com/FormidableLabs/publish-diff) - Preview npm publish changes.
@@ -278,7 +280,7 @@
 - [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - Cli for the node BundlePhobia Service
-- [ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal.
+- [ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. Used by webpack, gulp, and many others!
 - [react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
@@ -892,6 +894,7 @@
 
 ## Ruby 
 
+- [travis.rb](https://github.com/travis-ci/travis.rb) - Travis CI Client (CLI and Ruby library)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
