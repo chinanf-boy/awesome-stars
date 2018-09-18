@@ -25,6 +25,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Perl](#perl)
   - [Python](#python)
   - [Rascal](#rascal)
   - [Ruby](#ruby)
@@ -36,6 +37,7 @@
 
 ## C 
 
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
@@ -102,6 +104,8 @@
 
 ## Go 
 
+- [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
@@ -215,6 +219,7 @@
 
 ## JavaScript 
 
+- [mdx-deck](https://github.com/jxnblk/mdx-deck) - :spades: MDX-based presentation decks
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
 - [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
@@ -551,7 +556,7 @@
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [node-growl](https://github.com/tj/node-growl) - growl unobtrusive notification system for nodejs
 - [dlv](https://github.com/developit/dlv) - Safe deep property access in 130 bytes. x = dlv(obj, 'a.b.x')
-- [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
+- [unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum fetch polyfill in 500 bytes.
 - [cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -842,8 +847,14 @@
 - [svgdotjs.github.io](https://github.com/svgdotjs/svgdotjs.github.io) - Documentation and website for SVG.js
 - [the-majesty-of-vuejs-2](https://github.com/hootlex/the-majesty-of-vuejs-2) - Demo APIs and homework solutions for "The Majesty of Vue.js 2"
 
+## Perl 
+
+- [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
+
 ## Python 
 
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
@@ -905,6 +916,7 @@
 
 ## Rust 
 
+- [rust-by-example](https://github.com/rustcc/rust-by-example) - 通过例子学习Rust语言
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
@@ -952,6 +964,7 @@
 
 ## TypeScript 
 
+- [gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [TypeScript-React-Starter](https://github.com/chinanf-boy/TypeScript-React-Starter) - 🇨🇳翻译: 官方 TypeScript和React的入门模板 ❤️校对 ✅
