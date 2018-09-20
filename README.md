@@ -219,6 +219,8 @@
 
 ## JavaScript 
 
+- [vue-scrollto](https://github.com/rigor789/vue-scrollto) - Adds a directive that listens for click events and scrolls to elements.
+- [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - :spades: MDX-based presentation decks
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
@@ -462,7 +464,7 @@
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
-- [poi](https://github.com/upash/poi) - :zap: A zero-config bundler for JavaScript applications.
+- [poi](https://github.com/leptosia/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
@@ -571,7 +573,7 @@
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [api-platform](https://github.com/api-platform/api-platform) - Build hypermedia and GraphQL APIs in minutes, generate Progressive Web Apps to consume them.
+- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [nuxt7](https://github.com/nuxt-community/nuxt7) - 📱 Full Featured iOS & Android PWA Apps with Nuxt.js and Framework7
 - [tinydate](https://github.com/lukeed/tinydate) - A tiny (337B) reusable date formatter. Extremely fast!
@@ -746,6 +748,9 @@
 
 ## Others 
 
+- [xo-zh](https://github.com/chinanf-boy/xo-zh) - 🇨🇳翻译: &lt;xo&gt; JavaScript幸福风格的linter ❤️ 校对 ✅
+- [meow-zh](https://github.com/chinanf-boy/meow-zh) - 🇨🇳翻译: &lt;meow&gt; cli 命令行帮助库 ❤️ 校对 ✅
+- [lyo-zh](https://github.com/chinanf-boy/lyo-zh) - 🇨🇳翻译: &lt;lyo&gt; Node.js到浏览器模块 - 简单的方法 ❤️ 校对 ✅
 - [deno-zh](https://github.com/chinanf-boy/deno-zh) - 🇨🇳翻译: &lt;deno&gt; 基于V8构建的安全TypeScript运行时 ❤ 校对 √
 - [didact-explain](https://github.com/chinanf-boy/didact-explain) - 🇨🇳翻译: 「 Didact 」 DIY React  ❤ 更新 ✔
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
