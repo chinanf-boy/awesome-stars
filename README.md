@@ -199,7 +199,7 @@
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
-- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) - A curated collection of useful CSS snippets.
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets.
 - [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
@@ -283,6 +283,7 @@
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [react-flame-graph](https://github.com/bvaughn/react-flame-graph) - React component for visualizing profiling data
 - [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
@@ -562,12 +563,12 @@
 - [cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
 - [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [sketch-to-html](https://github.com/xinyu198736/sketch-to-html) - 可以 100%（目前可能是99.9%） 从 sketch 转换成 html，比市面任何一个同类库功能更强大，完善中
+- [sketch-to-html](https://github.com/xinyu198736/sketch-to-html) - 从 sketch 转换成 html，已无更新。。
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
-- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular
@@ -943,7 +944,6 @@
 
 ## Shell 
 
-- [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
