@@ -294,7 +294,6 @@
 - [orbit](https://github.com/orbitdb/orbit) - Distributed, serverless, peer-to-peer chat application on IPFS
 - [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources
 - [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
-- [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [minipack-explain](https://github.com/chinanf-boy/minipack-explain) - explain: &lt;minipack&gt; simple bundle 捆绑器 示例 「翻译」❤️ 校对 ✅
@@ -475,6 +474,7 @@
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
+- [docute](https://github.com/leptosia/docute) - :scroll: Effortlessly documentation done right.
 - [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
@@ -584,7 +584,7 @@
 - [import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [size-limit](https://github.com/ai/size-limit) - Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.
 - [nanoclone](https://github.com/Kelin2025/nanoclone) - Tiny util to deep clone JavaScript objects
-- [gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing fast site generator for React
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
@@ -944,6 +944,7 @@
 
 ## Shell 
 
+- [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
@@ -978,6 +979,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
+- [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [deno](https://github.com/denoland/deno) - A secure TypeScript runtime on V8
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things!
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
@@ -1039,7 +1041,6 @@
 - [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [discord-logo](https://github.com/NNTin/discord-logo) - animated discord logo in svg
-- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [parcel-vue-starter](https://github.com/eddyerburgh/parcel-vue-starter) - A parcel Vue starter project
