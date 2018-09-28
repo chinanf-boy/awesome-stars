@@ -506,7 +506,7 @@
 - [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [vmark](https://github.com/egoist/vmark) - Convert markdown to Vue component.
-- [husky](https://github.com/typicode/husky) - :dog: Git hooks made easy
+- [husky](https://github.com/typicode/husky) - 🐶 Git hooks made easy
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
@@ -552,7 +552,7 @@
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
 - [nanoid](https://github.com/ai/nanoid) - A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
-- [lowdb](https://github.com/typicode/lowdb) - :zap: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
 - [stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
@@ -741,6 +741,7 @@
 
 ## Objective-C 
 
+- [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events
 - [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
@@ -913,6 +914,7 @@
 
 ## Ruby 
 
+- [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS
 - [travis.rb](https://github.com/travis-ci/travis.rb) - Travis CI Client (CLI and Ruby library)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
