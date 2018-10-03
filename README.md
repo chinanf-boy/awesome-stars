@@ -199,7 +199,7 @@
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
-- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets.
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
@@ -219,6 +219,8 @@
 
 ## JavaScript 
 
+- [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vue-scrollto](https://github.com/rigor789/vue-scrollto) - Adds a directive that listens for click events and scrolls to elements.
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - :spades: MDX-based presentation decks
@@ -255,7 +257,7 @@
 - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉
 - [taskbook](https://github.com/klauscfhq/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
 - [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive and Modern SVG Charts
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [woye](https://github.com/alxpez/woye) - 📇 Insert plain-text, get information
@@ -395,7 +397,7 @@
 - [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
 - [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source web component of data table.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
-- [kubox](https://github.com/UpperCod/kubox) - If another bookstore more to control the state, but with interesting ideas 🥊
+- [kubox](https://github.com/UpperCod/kubox) - Kubox, is a small (&lt;600bytes gzip) state manager, such as Redux, Mobx or another library.
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
 - [tiny-glob](https://github.com/terkelg/tiny-glob) - 🚀 Super tiny and ~350% faster alternative to node-glob
 - [ava-explain](https://github.com/chinanf-boy/ava-explain) - explain : 「ava」未来的JavaScript测试运行器 | Futuristic JavaScript test runner
@@ -474,7 +476,7 @@
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
-- [docute](https://github.com/leptosia/docute) - :scroll: Effortlessly documentation done right.
+- [docute](https://github.com/leptosia/docute) - :scroll: Effortless documentation, done right.
 - [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
@@ -551,7 +553,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [nanoid](https://github.com/ai/nanoid) - A tiny (143 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -630,7 +632,7 @@
 - [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) - shadowsocks over WebSocket, support Heroku.
 - [learn-rollup](https://github.com/jlengstorf/learn-rollup) - This is an example project to accompany a tutorial on using Rollup.
 - [react-pivottable](https://github.com/plotly/react-pivottable) - React-based drag'n'drop pivot table with Plotly.js charts
-- [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
+- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind plot.ly and Dash
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps
 - [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
@@ -750,6 +752,7 @@
 
 ## Others 
 
+- [videojs-tutorial-CN](https://github.com/Avolons/videojs-tutorial-CN) - videojs中文教程
 - [ky-zh](https://github.com/chinanf-boy/ky-zh) - 🇨🇳翻译: &lt;ky&gt; 小巧典雅的基于Fetch API浏览器的HTTP客户端  ❤ 校对 ✔
 - [vue-scrollto-zh](https://github.com/chinanf-boy/vue-scrollto-zh) - 🇨🇳翻译: &lt;vue-scrollto-zh&gt; 滚动元素从未如此简单! ❤️ 校对 ✅
 - [xo-zh](https://github.com/chinanf-boy/xo-zh) - 🇨🇳翻译: &lt;xo&gt; JavaScript幸福风格的linter ❤️ 校对 ✅
@@ -809,7 +812,7 @@
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [Export-Example](https://github.com/chinanf-boy/Export-Example) - show example or demo-example or 库🌰
 - [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
-- [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes.
+- [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [shopping-list](https://github.com/ibm-watson-data-lab/shopping-list) - A series of Offline First shopping list demo apps, each built using a different stack.
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
@@ -975,6 +978,7 @@
 
 ## TypeScript 
 
+- [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
