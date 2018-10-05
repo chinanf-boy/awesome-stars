@@ -395,7 +395,7 @@
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [vue-jLunar-datePicker](https://github.com/tuhe32/vue-jLunar-datePicker) - VUE  chinese-lunar date-picker component with festivals and solar terms
-- [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source web component of data table.
+- [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [kubox](https://github.com/UpperCod/kubox) - Kubox, is a small (&lt;600bytes gzip) state manager, such as Redux, Mobx or another library.
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
@@ -930,6 +930,7 @@
 
 ## Rust 
 
+- [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [rust-by-example](https://github.com/rustcc/rust-by-example) - 通过例子学习Rust语言
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
