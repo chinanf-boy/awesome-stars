@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [to-markdown-cli](https://github.com/fabianmoronzirfas/to-markdown-cli) - a command line tool for turning html to markdown
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vue-scrollto](https://github.com/rigor789/vue-scrollto) - Adds a directive that listens for click events and scrolls to elements.
@@ -752,6 +753,8 @@
 
 ## Others 
 
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+- [cargo-book](https://github.com/istankovic/cargo-book) - 
 - [videojs-tutorial-CN](https://github.com/Avolons/videojs-tutorial-CN) - videojs中文教程
 - [ky-zh](https://github.com/chinanf-boy/ky-zh) - 🇨🇳翻译: &lt;ky&gt; 小巧典雅的基于Fetch API浏览器的HTTP客户端  ❤ 校对 ✔
 - [vue-scrollto-zh](https://github.com/chinanf-boy/vue-scrollto-zh) - 🇨🇳翻译: &lt;vue-scrollto-zh&gt; 滚动元素从未如此简单! ❤️ 校对 ✅
@@ -865,6 +868,7 @@
 
 ## Python 
 
+- [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
@@ -930,6 +934,7 @@
 
 ## Rust 
 
+- [rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [rust-by-example](https://github.com/rustcc/rust-by-example) - 通过例子学习Rust语言
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
