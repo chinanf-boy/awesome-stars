@@ -219,6 +219,8 @@
 
 ## JavaScript 
 
+- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
+- [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [to-markdown-cli](https://github.com/fabianmoronzirfas/to-markdown-cli) - a command line tool for turning html to markdown
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
@@ -319,7 +321,6 @@
 - [pkg-scripts](https://github.com/chinanf-boy/pkg-scripts) - just show package.json scripts, just like old npm run [Tab]  记得旧的 npm run [tab]吗
 - [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
-- [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
@@ -1034,6 +1035,7 @@
 ## Vue 
 
 - [vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
+- [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
 - [vue-getNoAbsBooks](https://github.com/chinanf-boy/vue-getNoAbsBooks) - getNoAbsBooks client 没有广告的书,流畅到自己都不好意思 , play fun ✅
 - [vue-reader](https://github.com/tgxhx/vue-reader) - vue技术栈+express+node爬虫写的移动书城
