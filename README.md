@@ -182,6 +182,7 @@
 
 ## HTML 
 
+- [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
@@ -682,7 +683,7 @@
 - [disqus-proxy-heroku](https://github.com/chinanf-boy/disqus-proxy-heroku) - heroku 版本 disqus-proxy   网站没部署 可以通过 npm run debug 查看
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
 - [preact-cli](https://github.com/developit/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
-- [next.js](https://github.com/zeit/next.js) - Next.js is a lightweight framework for static and server‑rendered applications.
+- [next.js](https://github.com/zeit/next.js) - The React Framework
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [artDialog](https://github.com/aui/artDialog) - 经典的网页对话框组件
@@ -845,7 +846,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (September 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (October 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
