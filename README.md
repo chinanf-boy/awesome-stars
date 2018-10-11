@@ -37,6 +37,7 @@
 
 ## C 
 
+- [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -60,7 +61,6 @@
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [rust-ffi-omnibus](https://github.com/chinanf-boy/rust-ffi-omnibus) - 🇨🇳翻译: 「ffi」 将 Rust 代码 导出, 应用于 其他语言 的例子集合 ❤️校对 ✅
-- [TypeScript-Node-Starter](https://github.com/chinanf-boy/TypeScript-Node-Starter) - 🇨🇳翻译: 官方 TypeScript和Node的入门模板 ❤️校对 ✅
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -220,6 +220,10 @@
 
 ## JavaScript 
 
+- [filter-console](https://github.com/sindresorhus/filter-console) - Filter out unwanted `console.log()` output
+- [awesome-vscode-zh](https://github.com/chinanf-boy/awesome-vscode-zh) - 🇨🇳翻译: &lt;awesome-vscode&gt; 🎨令人愉快的VS Code包和资源的精选列表 ❤️ 校对 ✅
+- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
+- [hacker-howto](https://github.com/zer4tul/hacker-howto) - 本文原文由知名Hacker Eric S. Raymond 所撰写，教你如何成为一名黑客。
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
 - [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [to-markdown-cli](https://github.com/fabianmoronzirfas/to-markdown-cli) - a command line tool for turning html to markdown
@@ -279,7 +283,7 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Learn Storybook
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
-- [rawgit](https://github.com/rgrove/rawgit) - Serves files from raw.githubusercontent.com, but with the correct content types.
+- [rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types.
 - [jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
