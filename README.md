@@ -34,9 +34,11 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## C 
 
+- [emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 - [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -182,6 +184,7 @@
 
 ## HTML 
 
+- [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
@@ -759,6 +762,7 @@
 
 ## Others 
 
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [cargo-book](https://github.com/istankovic/cargo-book) - 
 - [videojs-tutorial-CN](https://github.com/Avolons/videojs-tutorial-CN) - videojs中文教程
@@ -962,6 +966,7 @@
 
 ## Shell 
 
+- [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1067,6 +1072,11 @@
 - [web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js
+
+## WebAssembly 
+
+- [assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript to WebAssembly compiler 🚀
+- [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, in C++
 
 
 ## License
