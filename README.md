@@ -275,7 +275,7 @@
 - [keep-mac-light](https://github.com/chinanf-boy/keep-mac-light) - keep mac screen light  保持Mac 不进入待机
 - [brightness](https://github.com/kevva/brightness) - Change screen brightness
 - [exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
 - [TypeScript-Vue-Starter](https://github.com/chinanf-boy/TypeScript-Vue-Starter) - 🇨🇳翻译: 官方 TypeScript和Vue 的 入门模板 ❤️校对 ✅
