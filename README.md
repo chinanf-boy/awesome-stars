@@ -38,6 +38,8 @@
 
 ## C 
 
+- [vim](https://github.com/vim/vim) - The official Vim repository
+- [macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X
 - [emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 - [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -223,6 +225,10 @@
 
 ## JavaScript 
 
+- [webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
+- [react-book](https://github.com/survivejs/react-book) - From apprentice to master (CC BY-NC-ND)
+- [javascriptvisualizer](https://github.com/tylermcginnis/javascriptvisualizer) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
+- [envisionator](https://github.com/DennisBengs/envisionator) - a small game made for the js13kgames competition.
 - [filter-console](https://github.com/sindresorhus/filter-console) - Filter out unwanted `console.log()` output
 - [awesome-vscode-zh](https://github.com/chinanf-boy/awesome-vscode-zh) - 🇨🇳翻译: &lt;awesome-vscode&gt; 🎨令人愉快的VS Code包和资源的精选列表 ❤️ 校对 ✅
 - [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
@@ -349,7 +355,7 @@
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
-- [path-run](https://github.com/chinanf-boy/path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置 ✅
+- [path-run](https://github.com/chinanf-boy/path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置  ✅
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
@@ -563,7 +569,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (143 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (142 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -583,7 +589,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular
+- [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
@@ -762,6 +768,8 @@
 
 ## Others 
 
+- [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
+- [git-extras-zh](https://github.com/chinanf-boy/git-extras-zh) - 🇨🇳解释: &lt;git-extras&gt; 小小的git助推 ❤️ 校对 ✅。。
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [cargo-book](https://github.com/istankovic/cargo-book) - 
@@ -995,6 +1003,7 @@
 
 ## TypeScript 
 
+- [worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
