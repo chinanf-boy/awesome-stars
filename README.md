@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Elm](#elm)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
@@ -61,6 +62,7 @@
 
 ## CSS 
 
+- [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
@@ -96,6 +98,10 @@
 ## Dart 
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+
+## Dockerfile 
+
+- [cwasm-lodepng](https://github.com/LinusU/cwasm-lodepng) - PNG decoding for Node.js, using LodePNG compiled to WebAssembly
 
 ## Elm 
 
@@ -225,6 +231,7 @@
 
 ## JavaScript 
 
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
 - [react-book](https://github.com/survivejs/react-book) - From apprentice to master (CC BY-NC-ND)
 - [javascriptvisualizer](https://github.com/tylermcginnis/javascriptvisualizer) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
@@ -768,6 +775,7 @@
 
 ## Others 
 
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
 - [git-extras-zh](https://github.com/chinanf-boy/git-extras-zh) - 🇨🇳解释: &lt;git-extras&gt; 小小的git助推 ❤️ 校对 ✅。。
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
