@@ -231,6 +231,7 @@
 
 ## JavaScript 
 
+- [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
 - [react-book](https://github.com/survivejs/react-book) - From apprentice to master (CC BY-NC-ND)
@@ -775,6 +776,7 @@
 
 ## Others 
 
+- [emoji-cheat-sheet-zh](https://github.com/chinanf-boy/emoji-cheat-sheet-zh) - cheat sheet: &lt;emoji &gt; 表情代码大全 :heart: is work ✅
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
 - [git-extras-zh](https://github.com/chinanf-boy/git-extras-zh) - 🇨🇳解释: &lt;git-extras&gt; 小小的git助推 ❤️ 校对 ✅。。
@@ -960,6 +962,7 @@
 
 ## Rust 
 
+- [yew](https://github.com/DenisKolodin/yew) - Rust framework for building client web apps
 - [rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [rust-by-example](https://github.com/rustcc/rust-by-example) - 通过例子学习Rust语言
@@ -982,8 +985,8 @@
 
 ## Shell 
 
-- [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
+- [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
@@ -1011,6 +1014,7 @@
 
 ## TypeScript 
 
+- [guess](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
@@ -1061,6 +1065,7 @@
 
 ## Vue 
 
+- [vue-free-transform](https://github.com/skmail/vue-free-transform) - VueJS Free transform tool component
 - [vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
 - [npm-download-size](https://github.com/arve0/npm-download-size) - analyze size of npm packages
 - [photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
