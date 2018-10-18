@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [goplayspace](https://github.com/iafan/goplayspace) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) - :ear_of_rice: A step-by-step blockchain tutorial in simplified Chinese
@@ -986,6 +987,7 @@
 
 ## Shell 
 
+- [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
 - [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
