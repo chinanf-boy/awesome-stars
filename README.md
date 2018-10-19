@@ -17,6 +17,7 @@
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
@@ -224,6 +225,10 @@
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
+
+## Haskell 
+
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
 
