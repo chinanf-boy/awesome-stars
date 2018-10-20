@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [go-zh](https://github.com/gnefiy/go-zh) - Go 编程语言中文翻译 https://go-zh.org/
 - [goplayspace](https://github.com/iafan/goplayspace) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -747,7 +748,7 @@
 - [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 - [editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
-- [create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration.
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [Side-content](https://github.com/chinanf-boy/Side-content) - side-content can Title link Side
 - [sco.js](https://github.com/terebentina/sco.js) - Javascript extensions for twitter bootstrap
