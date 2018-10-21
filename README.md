@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
