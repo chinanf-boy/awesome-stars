@@ -459,7 +459,7 @@
 - [flatqueue](https://github.com/mourner/flatqueue) - A very fast and simple JavaScript priority queue
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
-- [react-graphql-github-vanilla](https://github.com/rwieruch/react-graphql-github-vanilla) - A React GraphQL example using GitHub's GraphQL API with vanilla JS
+- [react-graphql-github-vanilla](https://github.com/the-road-to-graphql/react-graphql-github-vanilla) - A React GraphQL example using GitHub's GraphQL API with vanilla JS
 - [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
@@ -531,7 +531,7 @@
 - [react-snap-example](https://github.com/badsyntax/react-snap-example) - Example project for react-snap
 - [airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
 - [react-transition-group-plus](https://github.com/cheapsteak/react-transition-group-plus) - A more full-featured transition group for React
-- [react-graphql-github-apollo](https://github.com/rwieruch/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+- [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: A complete overview of the JavaScript landscape in 2017: trends about front-end and node.js frameworks, tooling, IDE, mobile, testing, SSG, Vue, React...  Available in English, Chinese, French and Spanish
 - [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
@@ -894,7 +894,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [read_requests](https://github.com/wangshunping/read_requests) - python requests 源码阅读，学习更pythonic 的python代码写法。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - The Road to learn React: Your journey to master plain yet pragmatic React.js
+- [the-road-to-learn-react](https://github.com/the-road-to-learn-react/the-road-to-learn-react) - 📓The Road to learn React: Your journey to master plain yet pragmatic React.js
 
 ## PHP 
 
