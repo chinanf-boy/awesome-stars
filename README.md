@@ -501,7 +501,7 @@
 - [callbag-basics](https://github.com/staltz/callbag-basics) - 👜 Tiny and fast reactive/iterable programming library
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
-- [poi](https://github.com/leptosia/poi) - :zap: A zero-config bundler for JavaScript applications.
+- [poi](https://github.com/egoist/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
 - [vue-promised](https://github.com/posva/vue-promised) - Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
@@ -996,6 +996,7 @@
 
 ## Shell 
 
+- [fff](https://github.com/dylanaraps/fff) - :rocket: fucking fast file-manager
 - [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
 - [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
