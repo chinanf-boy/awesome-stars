@@ -623,7 +623,7 @@
 - [nanoclone](https://github.com/Kelin2025/nanoclone) - Tiny util to deep clone JavaScript objects
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
-- [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - Medium.com style image zoom for React
+- [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - 1 kB JavaScript micro-framework for building declarative web applications
 - [rmwc](https://github.com/jamesmfriedman/rmwc) - A React wrapper for Material Design (Web) Components
@@ -770,6 +770,7 @@
 
 ## Makefile 
 
+- [Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Some makefile templates for different size of projects
 - [flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
 
 ## OCaml 
