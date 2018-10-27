@@ -158,6 +158,7 @@
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -548,7 +549,7 @@
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [react-native-listener](https://github.com/erikras/react-native-listener) - A utility component to allow easy access to browser native events
 - [rekit](https://github.com/supnate/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
-- [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
+- [mdx-util](https://github.com/frontarm/mdx-util) - Utilities for working with MDX
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus. 🔓
 - [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
