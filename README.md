@@ -63,6 +63,7 @@
 
 ## CSS 
 
+- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
@@ -114,6 +115,7 @@
 
 ## Go 
 
+- [gddo](https://github.com/golang/gddo) - Go Doc Dot Org
 - [go-zh](https://github.com/gnefiy/go-zh) - Go 编程语言中文翻译 https://go-zh.org/
 - [goplayspace](https://github.com/iafan/goplayspace) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -157,7 +159,6 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -239,6 +240,7 @@
 
 ## JavaScript 
 
+- [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
