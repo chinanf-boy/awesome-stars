@@ -65,6 +65,7 @@
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
+- [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
@@ -115,6 +116,7 @@
 
 ## Go 
 
+- [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [gddo](https://github.com/golang/gddo) - Go Doc Dot Org
 - [go-zh](https://github.com/gnefiy/go-zh) - Go 编程语言中文翻译 https://go-zh.org/
 - [goplayspace](https://github.com/iafan/goplayspace) - Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more
@@ -198,7 +200,6 @@
 ## HTML 
 
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
-- [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
@@ -303,7 +304,7 @@
 - [keep-mac-light](https://github.com/chinanf-boy/keep-mac-light) - keep mac screen light  保持Mac 不进入待机
 - [brightness](https://github.com/kevva/brightness) - Change screen brightness
 - [exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
 - [TypeScript-Vue-Starter](https://github.com/chinanf-boy/TypeScript-Vue-Starter) - 🇨🇳翻译: 官方 TypeScript和Vue 的 入门模板 ❤️校对 ✅
@@ -506,7 +507,7 @@
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data
 - [poi](https://github.com/egoist/poi) - :zap: A zero-config bundler for JavaScript applications.
 - [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) - ⚠️ parcel-bundler/parcel @1.7.0 support Vue Now. This plugin will be not recommended.
-- [vue-promised](https://github.com/posva/vue-promised) - Promises as components
+- [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [react-fiber-resources](https://github.com/koba04/react-fiber-resources) - Resources for React Fiber
 - [didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [angular-presentation](https://github.com/nycJSorg/angular-presentation) - Angular presentation library
@@ -791,6 +792,7 @@
 
 ## Others 
 
+- [gitleaks-zh](https://github.com/chinanf-boy/gitleaks-zh) - 🇨🇳翻译: &lt;gitleaks&gt; 审核git存储库的密码 ❤️ 校对 ✅
 - [emoji-cheat-sheet-zh](https://github.com/chinanf-boy/emoji-cheat-sheet-zh) - cheat sheet: &lt;emoji &gt; 表情代码大全 :heart: is work ✅
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
@@ -1031,6 +1033,7 @@
 
 ## TypeScript 
 
+- [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [guess](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
