@@ -116,6 +116,7 @@
 
 ## Go 
 
+- [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [gddo](https://github.com/golang/gddo) - Go Doc Dot Org
 - [go-zh](https://github.com/gnefiy/go-zh) - Go 编程语言中文翻译 https://go-zh.org/
