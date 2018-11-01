@@ -59,7 +59,7 @@
 - [cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## CSS 
 
@@ -959,7 +959,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Source Code and Errata for the Book
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3
 
 ## Rascal 
