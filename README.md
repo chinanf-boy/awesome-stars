@@ -65,7 +65,6 @@
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-- [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
@@ -116,6 +115,7 @@
 
 ## Go 
 
+- [howdoi](https://github.com/chinanf-boy/howdoi) - code: &lt;howdoi&gt; howdoi by Golang :heart: is Work ✅
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [gddo](https://github.com/golang/gddo) - Go Doc Dot Org
@@ -201,6 +201,7 @@
 ## HTML 
 
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
+- [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
