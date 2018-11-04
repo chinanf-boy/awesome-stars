@@ -200,9 +200,11 @@
 
 ## HTML 
 
+- [goreleaser-zh](https://github.com/chinanf-boy/goreleaser-zh) - 🇨🇳翻译: &lt;goreleaser&gt; 为多个平台构建 Go 二进制文件 ❤️ 校对 ✅
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -440,7 +442,7 @@
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [kubox](https://github.com/UpperCod/kubox) - Kubox, is a small (&lt;600bytes gzip) state manager, such as Redux, Mobx or another library.
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Axios adapter that allows to easily mock requests
-- [tiny-glob](https://github.com/terkelg/tiny-glob) - 🚀 Super tiny and ~350% faster alternative to node-glob
+- [tiny-glob](https://github.com/terkelg/tiny-glob) - 🚀Super tiny and ~350% faster alternative to node-glob~!
 - [ava-explain](https://github.com/chinanf-boy/ava-explain) - explain : 「ava」未来的JavaScript测试运行器 | Futuristic JavaScript test runner
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
@@ -525,7 +527,7 @@
 - [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site) - 
 - [current-weather](https://github.com/Cold-Coast/current-weather) - 
 - [github-image-diff](https://github.com/bokuweb/github-image-diff) - 🚧 [Deprecated] :octocat: A chrome extension to check github image difference.
-- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [codesandbox-client](https://github.com/CompuIves/codesandbox-client) - An online code editor tailored for web application development 🏖️
@@ -594,7 +596,7 @@
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) - Utility to make PM2 automatically resurrect on Windows startup
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery
-- [nanoid](https://github.com/ai/nanoid) - A tiny (142 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (141 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
 - [ipfs-tutorial](https://github.com/miaoski/ipfs-tutorial) - IPFS 筆記和教學 (繁體中文)
 - [Subworkers](https://github.com/dmihal/Subworkers) - Polyfill to allow nested WebWorkers
@@ -645,7 +647,6 @@
 - [react-dom-stream](https://github.com/aickin/react-dom-stream) - A streaming server-side rendering library for React.
 - [Vue_Typescript_Todolist](https://github.com/coding-blocks-archives/Vue_Typescript_Todolist) - 
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - :white_circle: SVG component to create placeholder loading, like Facebook cards loading.
-- [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
 - [explain-translateMds](https://github.com/chinanf-boy/explain-translateMds) - explain translateMds this is can translate md file in folder
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
@@ -778,6 +779,7 @@
 
 - [Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Some makefile templates for different size of projects
 - [flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 
 ## OCaml 
 
@@ -918,7 +920,6 @@
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
 - [cdto](https://github.com/ealeksandrov/cdto) - Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)
@@ -976,7 +977,6 @@
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 ## Rust 
@@ -1075,6 +1075,7 @@
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [vscode-yo](https://github.com/SamVerschueren/vscode-yo) - Yeoman plugin for VS Code
+- [coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [translation.js](https://github.com/Selection-Translator/translation.js) - 集成了谷歌翻译、有道翻译与百度翻译的网页翻译接口，可在 Node.js 与 Chrome 扩展 / 应用中使用。
