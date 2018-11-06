@@ -115,7 +115,7 @@
 
 ## Go 
 
-- [howdoi](https://github.com/chinanf-boy/howdoi) - code: &lt;howdoi&gt; howdoi by Golang :heart: is Work ✅
+- [howdoi](https://github.com/chinanf-boy/howdoi) - code: &lt;howdoi&gt; instant coding answers via the command line  by Golang :heart: is Work ✅
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [gddo](https://github.com/golang/gddo) - Go Doc Dot Org
@@ -411,7 +411,7 @@
 - [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
 - [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Vue.js tooltip directive. Easy to use, configure and style
 - [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for Node.js
+- [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
@@ -796,6 +796,7 @@
 
 ## Others 
 
+- [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [gitleaks-zh](https://github.com/chinanf-boy/gitleaks-zh) - 🇨🇳翻译: &lt;gitleaks&gt; 审核git存储库的密码 ❤️ 校对 ✅
 - [emoji-cheat-sheet-zh](https://github.com/chinanf-boy/emoji-cheat-sheet-zh) - cheat sheet: &lt;emoji &gt; 表情代码大全 :heart: is work ✅
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
