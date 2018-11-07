@@ -329,7 +329,6 @@
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
-- [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [react-flame-graph](https://github.com/bvaughn/react-flame-graph) - React component for visualizing profiling data
 - [jscost.org](https://github.com/GoogleChromeLabs/jscost.org) - JSCost.org - a JavaScript cost visualizer 💸
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
@@ -846,7 +845,6 @@
 - [what-is-Bitcoin](https://github.com/chinanf-boy/what-is-Bitcoin) - explain: 比特币和区块链是什么{真的讲得好}, 这是个收藏夹📁
 - [rustwasm-book](https://github.com/chinanf-boy/rustwasm-book) - 🇨🇳翻译: Rust 和 WebAssembly 不得不说的秘密🤫 ❤️更新✔
 - [book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
-- [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔
 - [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
@@ -1009,7 +1007,9 @@
 - [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
 - [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
+- [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
+- [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档 ❤️ 更新 ✅
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
