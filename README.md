@@ -68,7 +68,6 @@
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
-- [rust-ffi-omnibus](https://github.com/chinanf-boy/rust-ffi-omnibus) - 🇨🇳翻译: 「ffi」 将 Rust 代码 导出, 应用于 其他语言 的例子集合 ❤️校对 ✅
 - [tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -713,6 +712,7 @@
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
 - [weex-pack](https://github.com/weexteam/weex-pack) - Weex pack tool for Android、iOS and H5 plartform.
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [demo-app](https://github.com/react-native-material-design/demo-app) - An Android app to demonstrate react-native-material-design
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -779,7 +779,6 @@
 
 - [Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Some makefile templates for different size of projects
 - [flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 
 ## OCaml 
 
