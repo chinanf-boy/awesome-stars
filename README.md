@@ -795,6 +795,7 @@
 
 ## Others 
 
+- [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [gitleaks-zh](https://github.com/chinanf-boy/gitleaks-zh) - 🇨🇳翻译: &lt;gitleaks&gt; 审核git存储库的密码 ❤️ 校对 ✅
 - [emoji-cheat-sheet-zh](https://github.com/chinanf-boy/emoji-cheat-sheet-zh) - cheat sheet: &lt;emoji &gt; 表情代码大全 :heart: is work ✅
@@ -980,6 +981,7 @@
 
 ## Rust 
 
+- [rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [yew](https://github.com/DenisKolodin/yew) - Rust framework for building client web apps
 - [rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
