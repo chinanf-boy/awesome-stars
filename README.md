@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（第二版）
 - [goreleaser-zh](https://github.com/chinanf-boy/goreleaser-zh) - 🇨🇳翻译: &lt;goreleaser&gt; 为多个平台构建 Go 二进制文件 ❤️ 校对 ✅
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang) - hugo: theme&lt;yinwang&gt; yinwang.org 样式 hugo主题 ❤️ work ✅
@@ -795,6 +796,7 @@
 
 ## Others 
 
+- [add-one-explain](https://github.com/chinanf-boy/add-one-explain) - explain: rust &lt;add-one&gt; 加一，:heart: explain ✅
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [gitleaks-zh](https://github.com/chinanf-boy/gitleaks-zh) - 🇨🇳翻译: &lt;gitleaks&gt; 审核git存储库的密码 ❤️ 校对 ✅
@@ -893,7 +895,7 @@
 - [unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [support](https://github.com/jscoach/support) - JS.coach is a manually curated list of packages related to React, Webpack, Babel and PostCSS
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (October 2018)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018)
 - [Source-Explain](https://github.com/chinanf-boy/Source-Explain) - explains: explain source english |  源码解释「 js - py - go  」 👀&gt;
 - [awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
