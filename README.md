@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [howdoi](https://github.com/chinanf-boy/howdoi) - code: &lt;howdoi&gt; instant coding answers via the command line  by Golang :heart: is Work ✅
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
@@ -245,6 +246,7 @@
 
 ## JavaScript 
 
+- [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
 - [anydown](https://github.com/anydown/anydown) - 
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
@@ -983,6 +985,7 @@
 
 ## Rust 
 
+- [mdBook](https://github.com/rust-lang-nursery/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [yew](https://github.com/DenisKolodin/yew) - Rust framework for building client web apps
 - [rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
