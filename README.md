@@ -200,6 +200,7 @@
 
 ## HTML 
 
+- [mdBook-zh](https://github.com/chinanf-boy/mdBook-zh) - 中文翻译:&lt;mdBook&gt; 一个从 Markdown 文件创建现代在线书籍的实用程序 :heart: 校对 ✅
 - [trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（第二版）
 - [goreleaser-zh](https://github.com/chinanf-boy/goreleaser-zh) - 🇨🇳翻译: &lt;goreleaser&gt; 为多个平台构建 Go 二进制文件 ❤️ 校对 ✅
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
@@ -293,7 +294,7 @@
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
 - [javascript-algorithms-zh](https://github.com/chinanf-boy/javascript-algorithms-zh) - 🇨🇳翻译: JavaScript-algorithms 主要保存repo ❤ 校对 ✔
-- [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
+- [react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [apple-music-js](https://github.com/tvillarete/apple-music-js) - A music streaming service created from the ground up using ReactJS & Redux
@@ -1010,6 +1011,7 @@
 
 ## Shell 
 
+- [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [fff](https://github.com/dylanaraps/fff) - :rocket: fucking fast file-manager
 - [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [hub-zh](https://github.com/chinanf-boy/hub-zh) - 🇨🇳翻译: &lt;hub&gt; 让git与github更容易合作 ❤️ 校对 ✅
