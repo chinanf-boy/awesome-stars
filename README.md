@@ -64,6 +64,7 @@
 
 ## CSS 
 
+- [NES.css](https://github.com/BcRikko/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク[WIP]
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
@@ -115,6 +116,9 @@
 
 ## Go 
 
+- [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
+- [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [howdoi](https://github.com/chinanf-boy/howdoi) - code: &lt;howdoi&gt; instant coding answers via the command line  by Golang :heart: is Work ✅
 - [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
@@ -249,6 +253,8 @@
 
 ## JavaScript 
 
+- [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
+- [ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
 - [anydown](https://github.com/anydown/anydown) - 
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
@@ -308,7 +314,7 @@
 - [taskbook](https://github.com/klauscfhq/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
 - [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
-- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images
+- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [woye](https://github.com/alxpez/woye) - 📇 Insert plain-text, get information
 - [keep-mac-light](https://github.com/chinanf-boy/keep-mac-light) - keep mac screen light  保持Mac 不进入待机
@@ -524,7 +530,7 @@
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [my-animation-list](https://github.com/limichange/my-animation-list) - My Animation List
-- [docute](https://github.com/leptosia/docute) - :scroll: Effortless documentation, done right.
+- [docute](https://github.com/leptosia/docute) - 📚 Effortless documentation, done right.
 - [SDR-News](https://github.com/super-dev/SDR-News) - News for Web Designers and Developers - Shows aggregated news from multiple sources
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
