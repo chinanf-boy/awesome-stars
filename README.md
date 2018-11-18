@@ -311,7 +311,7 @@
 - [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.
 - [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉
-- [taskbook](https://github.com/klauscfhq/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
+- [taskbook](https://github.com/klaussinani/taskbook) - 📓 Tasks, boards & notes for the command-line habitat
 - [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -392,7 +392,7 @@
 - [split-lines](https://github.com/sindresorhus/split-lines) - Split lines into an array of lines
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
-- [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
+- [signale](https://github.com/klaussinani/signale) - 👋 Hackable console logger
 - [path-run](https://github.com/chinanf-boy/path-run) - rewrite And change project Path require|from 更改项目文件-被其他文件导入的所在位置  ✅
 - [vue-cli-explain](https://github.com/chinanf-boy/vue-cli-explain) - explain : vue-cli 快到3.0正式版了, 再次挖坑
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -472,7 +472,7 @@
 - [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
-- [jest](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing.
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
 - [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites.
 - [flatqueue](https://github.com/mourner/flatqueue) - A very fast and simple JavaScript priority queue
@@ -783,7 +783,7 @@
 
 ## Jupyter Notebook 
 
-- [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras) - A neural network that transforms a screenshot into a static website
+- [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 
@@ -993,6 +993,7 @@
 
 ## Rust 
 
+- [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - The Rust toolchain installer
 - [mdBook](https://github.com/rust-lang-nursery/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [yew](https://github.com/DenisKolodin/yew) - Rust framework for building client web apps
