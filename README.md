@@ -78,6 +78,7 @@
 - [Web-Audio-Basics](https://github.com/kylestetz/Web-Audio-Basics) - :speaker: Simple examples to demonstrate various aspects of the Web Audio API.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -253,10 +254,11 @@
 
 ## JavaScript 
 
+- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js
 - [glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
-- [anydown](https://github.com/anydown/anydown) - 
+- [anydown-old](https://github.com/anydown/anydown-old) - **DEPRICATED** anydown for electron
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)
@@ -985,7 +987,6 @@
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS
 - [travis.rb](https://github.com/travis-ci/travis.rb) - Travis CI Client (CLI and Ruby library)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [homeland](https://github.com/rails-engine/homeland) - Community Rails Engine
