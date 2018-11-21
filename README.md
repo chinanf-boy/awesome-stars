@@ -218,7 +218,6 @@
 - [hugo-casper-two](https://github.com/eueung/hugo-casper-two) - Port of Casper 2.x to Hugo
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
-- [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust by Example 中文版(包含在线代码编辑器)
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
@@ -864,6 +863,7 @@
 - [react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔
 - [chinese-translate-list](https://github.com/chinanf-boy/chinese-translate-list) - lists: about my translate repo list 中文翻译列表 🇨🇳
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
+- [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -1020,6 +1020,7 @@
 
 ## Shell 
 
+- [goawk-zh](https://github.com/chinanf-boy/goawk-zh) - 中文翻译:&lt;benhoyt/goawk&gt; 用 Go 编写的 AWK 解释器 :heart: 校对 ✅
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [fff](https://github.com/dylanaraps/fff) - :rocket: fucking fast file-manager
 - [update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
