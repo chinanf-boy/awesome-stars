@@ -994,7 +994,7 @@
 
 ## Rust 
 
-- [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - The Rust toolchain installer
+- [rustup.rs](https://github.com/rust-lang/rustup.rs) - The Rust toolchain installer
 - [mdBook](https://github.com/rust-lang-nursery/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [yew](https://github.com/DenisKolodin/yew) - Rust framework for building client web apps
