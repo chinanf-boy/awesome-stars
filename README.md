@@ -573,7 +573,6 @@
 - [css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [vscode-markdown-shortcuts](https://github.com/mdickin/vscode-markdown-shortcuts) - Markdown shortcuts extension for Visual Studio Code
 - [thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [js-stack-from-scratch](https://github.com/yepbug/js-stack-from-scratch) - 🎉 第二版 🎉 — 从零开始构建 JavaScript 技术栈
@@ -932,6 +931,7 @@
 
 ## Python 
 
+- [facebook-wda](https://github.com/openatx/facebook-wda) - Facebook WebDriverAgent Python Client Library (not official)
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
