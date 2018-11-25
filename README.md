@@ -975,7 +975,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Source Code and Errata for the Book
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3
 
 ## Rascal 
