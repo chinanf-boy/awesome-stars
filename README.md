@@ -85,6 +85,7 @@
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
+- [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
@@ -221,7 +222,7 @@
 - [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust by Example 中文版(包含在线代码编辑器)
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [go101](https://github.com/go101/go101) - A book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -238,9 +239,9 @@
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - The website designer for Hugo. Build and deploy a beautiful website in minutes :rocket:
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 
 ## Haskell 
 
@@ -249,7 +250,6 @@
 ## Java 
 
 - [AcFun-weex](https://github.com/chinanf-boy/AcFun-weex) - 一点 weex 的实践  AcFun 半首页 并没有Api
-- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 
 ## JavaScript 
 
@@ -498,7 +498,7 @@
 - [vue-motion](https://github.com/posva/vue-motion) - Easy and natural state transitions
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 - [gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
-- [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own content loader easily in React and even Vue.
+- [create-content-loader](https://github.com/danilowoz/create-content-loader) - :pencil2: Tool to create your own react-content-loader easily.
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [sympact](https://github.com/simonepri/sympact) - 🔥 Simple stupid CPU/MEM "Profiler" for your JS code.
 - [News-Book](https://github.com/Ananthavijay/News-Book) - Preview at :
@@ -725,6 +725,7 @@
 - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
 - [weex-pack](https://github.com/weexteam/weex-pack) - Weex pack tool for Android、iOS and H5 plartform.
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [demo-app](https://github.com/react-native-material-design/demo-app) - An Android app to demonstrate react-native-material-design
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -852,7 +853,6 @@
 - [learnstorybook.com-zh](https://github.com/chinanf-boy/learnstorybook.com-zh) - 🇨🇳翻译: learnstorybook 学习故事书, 有益增知识 ❤️ 校对 ✅
 - [v2ray-mac-iphone](https://github.com/chinanf-boy/v2ray-mac-iphone) - explain: 只说 v2ray 概念✅, 代码什么的好多啊💀
 - [guppy-docs-zh](https://github.com/chinanf-boy/guppy-docs-zh) - 🇨🇳翻译: guppy {docs } Reactjs 友好的应用和任务管理GUI,真得挺漂亮的 ❤️ 校对 ✅
-- [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 🇨🇳翻译: ipfs/go-ipfs md文档 ❤️ 校对 🀄️
 - [ipfs-zh](https://github.com/chinanf-boy/ipfs-zh) - 🇨🇳翻译: ipfs/ipfs 文档 ❤️ 校对 ✅
 - [react-values-zh](https://github.com/chinanf-boy/react-values-zh) - 🇨🇳翻译: react-values {一组简单,可组合的帮助程序 } 文档 ❤️ 校对 ✅
 - [ipfs-tour](https://github.com/chinanf-boy/ipfs-tour) - tour: about ipfs  🌍
@@ -1020,6 +1020,7 @@
 
 ## Shell 
 
+- [go-getter-zh](https://github.com/chinanf-boy/go-getter-zh) - 中文翻译:&lt;hashicorp/go-getter&gt; 使用 URL 作为主要输入形式从各种来源下载文件或目录 :heart: 校对 ✅
 - [goawk-zh](https://github.com/chinanf-boy/goawk-zh) - 中文翻译:&lt;benhoyt/goawk&gt; 用 Go 编写的 AWK 解释器 :heart: 校对 ✅
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [fff](https://github.com/dylanaraps/fff) - :rocket: fucking fast file-manager
@@ -1028,6 +1029,7 @@
 - [MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
 - [community](https://github.com/ipfs/community) - Discussion and documentation on community practices
 - [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
+- [go-ipfs-zh](https://github.com/chinanf-boy/go-ipfs-zh) - 中文翻译: &lt;ipfs/go-ipfs&gt; 星际文件系统-go实现 ❤️ 更新  ✅
 - [react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) - 🇨🇳翻译: react-beautiful-dnd 文档 ❤️ 更新 ✅
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) - 
@@ -1103,7 +1105,6 @@
 - [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [vscode-extension-samples](https://github.com/Microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 
 ## Vue 
