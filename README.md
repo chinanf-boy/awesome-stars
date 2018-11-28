@@ -64,7 +64,7 @@
 
 ## CSS 
 
-- [NES.css](https://github.com/BcRikko/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク[WIP]
+- [NES.css](https://github.com/BcRikko/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
@@ -249,6 +249,7 @@
 
 ## Java 
 
+- [pysonar2](https://github.com/yinwang0/pysonar2) - a type inferencer for Python
 - [AcFun-weex](https://github.com/chinanf-boy/AcFun-weex) - 一点 weex 的实践  AcFun 半首页 并没有Api
 
 ## JavaScript 
